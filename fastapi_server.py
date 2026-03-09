@@ -28,7 +28,6 @@ async def lifespan(app: FastAPI):
 
     chat_chain = None
 
-
 app = FastAPI(
     title="KIIT Nexus Chatbot API",
     description="REST API for KIIT University and KIIT Nexus chatbot",
@@ -152,9 +151,11 @@ async def get_greeting():
 
 if __name__ == "__main__":
     import uvicorn
+    import os
+    port = int(os.environ.get("PORT", 8000))
     uvicorn.run(
         "fastapi_server:app",
         host="0.0.0.0",
-        port=8000,
-        reload=True
+        port=port,
+        reload=(port == 8000)
     )
