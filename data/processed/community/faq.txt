@@ -1,0 +1,476 @@
+KIIT Student FAQ — Comprehensive Knowledge Base
+================================================
+Source: KIIT Student Handbook 2022-23, KIITEE 2026-27 Prospectus, Course Curriculum, Academic Calendars, KIIT NEXUS PDF
+Last Updated: 2025-2026 Academic Session
+Category: All Domains
+
+==============================================
+SECTION 1: UNIVERSITY — GENERAL INFO
+==============================================
+
+Q: What is KIIT?
+A: KIIT stands for Kalinga Institute of Industrial Technology. It is a Deemed to be University located in Bhubaneswar, Odisha, India. It was established as an institution in 1997 and declared a Deemed University in 2004 under Section 3 of the UGC Act, 1956.
+
+Q: Who is the founder of KIIT?
+A: Prof. (Dr.) Achyuta Samanta is the founder of KIIT, KISS, and KIMS. He is an eminent educationist, philanthropist, and social worker who transformed KIIT from a small institution into a globally recognized university.
+
+Q: Where is KIIT located?
+A: KIIT is located in Bhubaneswar-751024, Odisha, India. The campus spans 30 campuses across a 6 km x 6 km (36 sq. km) radius, with a total built-up area of 2.5 crore sq. ft.
+
+Q: What is KIIT's world ranking?
+A: As per the latest rankings:
+- Times Higher Education (THE) World University Rankings 2026: 501-600
+- THE Asia University Rankings 2025: 184th in Asia, 8th in India
+- THE Impact Rankings 2025: 101-200 overall, 5th in India
+- NIRF India Rankings 2025: 17th among Government and Private Universities
+- QS Asia University Rankings 2026: 294th in Asia, 1st in Odisha
+
+Q: What programmes does the School of Computer Engineering offer?
+A: The School of Computer Engineering offers:
+- B.Tech in Computer Science & Engineering (CSE)
+- B.Tech in Information Technology (IT)
+- B.Tech in Computer Science & Communication Engineering (CS&CE)
+- B.Tech in Computer Science & System Engineering (CS&SE)
+- M.Tech
+- Ph.D.
+
+Q: Is KIIT a residential university?
+A: Yes. KIIT is fully residential. All students are required to reside in and be members of a hostel assigned to them. Under special circumstances, the Director may permit a student to reside with their Parent/Guardian on or near campus.
+
+Q: What is the medium of instruction at KIIT?
+A: The medium of instruction, examination, and project reports at KIIT is English.
+
+Q: What is the Tutor-Mentor system at KIIT?
+A: Each student is assigned a dedicated faculty member called a Tutor-Mentor. The mentor assists with registration, tracks attendance and performance, communicates with parents when needed, monitors health and well-being, guides campus conduct, and helps with grievance redressal.
+
+Q: How many Nobel Laureates have visited KIIT?
+A: 18 Nobel Laureates have visited KIIT and delivered talks under the Nobel Lecture Series and KIIT Knowledge Tree initiative.
+
+Q: How many Olympians has KIIT produced?
+A: KIIT has produced 23 Olympians and 3 Paralympians. 15 KIIT students participated in the Paris Olympics 2024, and 2 participated in the Paris Paralympics 2024.
+
+Q: What is the contact number for KIIT admissions?
+A: Phone: +91 8080735735 | Fax: +91 674 2741465 | Email: admission@kiit.ac.in | Website: www.kiitee.ac.in
+
+==============================================
+SECTION 2: ADMISSIONS
+==============================================
+
+Q: How do I get admission to KIIT B.Tech?
+A: Admission to B.Tech at KIIT is done through KIITEE — the KIIT Joint Entrance Examination. Based on your KIITEE rank, you are called for a Single Window Counseling (SWC) process where you can select your branch of preference.
+
+Q: What is KIITEE?
+A: KIITEE stands for KIIT Joint Entrance Examination. It is the entrance exam conducted by KIIT for admission to its B.Tech, M.Tech, MCA, and other programmes. The official website is www.kiitee.ac.in.
+
+Q: Is lateral entry available at KIIT?
+A: Yes. B.Tech Lateral Entry is available for 3 years (6 semesters) for Civil, Electrical, Mechanical, Aerospace, Mechatronics, Mechanical (Automobile), Electronics & Telecommunication, Electronics & Computer Science Engineering, and Electronics and Electrical Engineering.
+
+Q: What documents are required for KIIT admission?
+A: Required documents typically include mark sheets, transfer certificate, character certificate, domicile/nationality proof, passport-size photographs, and caste certificate if applicable. The complete checklist is provided during the SWC counseling process.
+
+Q: What is Single Window Counseling (SWC)?
+A: Single Window Counseling (SWC) is the counseling process conducted by KIIT after KIITEE results. Students are called based on their KIITEE rank and can select their preferred branch of B.Tech during this process.
+
+Q: Can foreign students apply to KIIT?
+A: Yes. KIIT admits international students. There is a dedicated international hostel on campus. Refunds for foreign student candidates are made in accordance with Foreign Exchange Regulations. Contact: dean.isr@kiit.ac.in
+
+Q: What is the Tuition Fee Waiver Scheme (TFW)?
+A: Under TFW, seats up to a maximum of 5% of the sanctioned B.Tech intake are available for students holding BPL (Below Poverty Line) cards. These seats are supernumerary. The waiver covers tuition fees only — all other fees must be paid by the student.
+
+Q: What is the maximum duration to complete B.Tech at KIIT?
+A: The maximum permitted duration to complete all B.Tech degree requirements is 12 registered semesters. If a student opts for the slow-paced programme, this is extended by 2 more semesters (14 total). Summer semesters do not count as registered semesters.
+
+Q: Can I take a semester break at KIIT?
+A: Yes. A student may be permitted by the Dean (Academics) to take a semester break or temporary withdrawal for reasons of ill health or other valid reasons. A maximum of 2 semesters (continuous or intermittent) can be taken as break during the entire program.
+
+Q: What happens if my program is terminated due to backlogs?
+A: You may appeal to the Chairperson of the Academic Council through your Tutor-Mentor and Dean (Academics) for a second chance to re-enroll. The Chairperson may grant readmission on behalf of the Academic Council.
+
+==============================================
+SECTION 3: FEES & FINANCE
+==============================================
+
+Q: What is the B.Tech fee for CSE, IT, CS&CE, and CS&SE per semester?
+A: The fee is Rs. 2,20,000 per semester for B.Tech in Computer Science & Engineering, Information Technology, Computer Science & Communication Engineering, and Computer Science & System Engineering.
+
+Q: What is the B.Tech fee for CSE with specializations like AI/ML, Cyber Security, Data Science, IoT?
+A: The fee is Rs. 2,20,000 per semester for B.Tech in CSE with specializations such as Artificial Intelligence and Machine Learning, Artificial Intelligence, Cyber Security, Data Science, Internet of Things, and Cyber Security including Blockchain Technology.
+
+Q: What is the B.Tech fee for Electronics branches?
+A: The fee is Rs. 2,00,000 per semester for B.Tech in Electronics & Telecommunication, Electronics & Computer Science Engineering, Electronics and Electrical Engineering, and Electronics Engineering with specialization in VLSI Design & Technology.
+
+Q: What is the B.Tech fee for Civil, Mechanical, Electrical, and Aerospace branches?
+A: The fee is Rs. 1,75,000 per semester for B.Tech in Civil, Electrical, Mechanical, Electrical & Computer Engineering, Construction Technology, Aerospace Engineering, Mechatronics, Mechanical (Automobile), and Chemical Engineering.
+
+Q: What is the M.Tech fee per semester?
+A: The M.Tech fee is Rs. 1,20,000 per semester (2 years / 4 semesters).
+
+Q: What is the registration fee per semester?
+A: The registration fee is Rs. 1,000 per semester. The first semester registration fee is collected at the time of counseling. For subsequent semesters, it is collected at the beginning of each semester.
+
+Q: What is the exam fee per semester?
+A: The examination fee is Rs. 1,000 per semester, collected during the semester examination form fill-up.
+
+Q: What is the KIIT Merit Scholarship?
+A: KIIT Merit Scholarship is awarded to the semester toppers (1st, 2nd, and 3rd position) of each semester in each branch, for a period of 6 months. The quantum is subject to change by the Academic Council.
+
+Q: What is the KIITEE Merit Scholarship?
+A: The KIITEE Merit Scholarship is awarded to KIITEE General Rank holders from Rank 1 to 1000 for 4 years during their study at KIIT. The scholarship amount is Rs. 1,20,000 per annum for B.Tech (4 years). KIITEE Merit Scholarship holders are not eligible for KIIT Merit Scholarships simultaneously.
+
+Q: What is the Pradyumna Bal Memorial Scholarship?
+A: This scholarship is instituted in memory of Late Pradyumna Kishore Bal, Founder President of KIIT. Every year, two economically challenged but meritorious students receive completely free education under this scheme — covering college fees, hostel dues including mess, books, and any ancillary expenses.
+
+Q: What are the conditions to maintain a scholarship?
+A: To maintain a scholarship, a student must:
+1. Maintain at least 75% attendance in each semester.
+2. Secure at least 7.5 SGPA in each semester and clear all papers in a single sitting (no backlogs).
+3. Not indulge in any disciplinary misconduct.
+
+Q: What is the refund policy at KIIT?
+A: Refunds are made as per UGC guidelines. Students must apply for withdrawal using the prescribed form available on the KIIT website. For foreign students, refunds are made as per Foreign Exchange Regulations.
+
+Q: What is the cost to get a duplicate Grade Report?
+A: A duplicate Semester Grade Report costs Rs. 150. A duplicate Final Grade Report costs Rs. 500. These are issued by the Dean through the Compliance Cell.
+
+Q: How much does a transcript certificate cost?
+A: A Transcript Certificate costs Rs. 500 (both first copy and duplicate). It is issued by the Registrar.
+
+Q: How much does a duplicate degree certificate cost?
+A: A duplicate Final Degree Certificate costs Rs. 1,000, issued by the Dean.
+
+Q: Are there education loans available for KIIT students?
+A: Yes. KIIT facilitates education loans. Joining KIIT ensures high-quality placements, which banks consider when approving loans. For loan-related Bonafide Certificates, contact the School Compliance Cell at compliance.cse@kiit.ac.in.
+
+==============================================
+SECTION 4: EXAM STRUCTURE & GRADING
+==============================================
+
+Q: How is a theory course assessed at KIIT?
+A: A theory course is assessed as follows:
+- Activities (quizzes, assignments, projects, viva, etc.): 30%
+- Mid-Semester Examination (approx. 1 hour): 20%
+- End-Semester Examination (approx. 3 hours): 50%
+
+Q: How is a practical/laboratory course assessed?
+A: Practical courses are assessed as:
+- Continuous assessment: 60%
+- End-semester exam: 40%
+
+Q: How are sessional courses assessed?
+A: Sessional courses are assessed 100% in class — no separate end-semester exam.
+
+Q: What is the grading system at KIIT?
+A: The grade-to-score mapping is:
+- O (Outstanding): 90-100 → Grade Point 10
+- E (Excellent): 80-89 → Grade Point 9
+- A (Very Good): 70-79 → Grade Point 8
+- B (Good): 60-69 → Grade Point 7
+- C (Average): 50-59 → Grade Point 6
+- D (Below Average): 40-49 → Grade Point 5
+- F (Fail): Below 40 → Grade Point 0
+- I: Incomplete (temporary grade)
+
+Q: What is SGPA?
+A: SGPA (Semester Grade Point Average) is the weighted average of grade points across all courses in a semester. Formula: SGPA = Σ(C × GP) / ΣC, where C is the credit of a subject and GP is the grade point earned. F-grade subjects are included; I-grade subjects are excluded.
+
+Q: What is CGPA?
+A: CGPA (Cumulative Grade Point Average) is the weighted average of grade points across all semesters completed so far, calculated using the same formula as SGPA but over the entire program duration.
+
+Q: What is the I grade and what happens if it is not resolved?
+A: The I (Incomplete) grade is a temporary grade assigned when a student has not completed a small part of the course but has done satisfactory work otherwise. The student must complete the remaining work within one month of the start of the next regular semester. If not resolved within this deadline, the I grade automatically converts to an F grade.
+
+Q: What is the minimum attendance required to sit for end-semester exams?
+A: Students must maintain a minimum of 75% attendance in each course. If attendance falls below 75%, the student is debarred from the end-semester examination and awarded an I grade in that course.
+
+Q: How is attendance calculated?
+A: Every scheduled lecture, tutorial, or practical class counts as one unit, regardless of the number of contact hours in that session.
+
+Q: Can I apply for a make-up exam if I miss the mid-semester exam?
+A: Yes. If you miss the mid-semester exam for valid reasons, you can request a make-up exam from the course instructor within 10 days of the missed examination. The instructor will schedule the make-up exam during designated slots in the Academic Calendar or at mutual convenience, subject to their satisfaction with your explanation.
+
+Q: What is the minimum CGPA required to graduate with a B.Tech degree?
+A: You must secure a CGPA of 6.0 or higher at the end of the semester in which you complete all degree requirements. You must also have a minimum D grade in every theory subject and a minimum C grade in every practical and sessional subject.
+
+Q: What is the supplementary examination?
+A: The supplementary examination is held annually at the end of each academic year for 1st, 2nd, 3rd, and 4th year students, before the start of the next academic session. It is for failed theory subjects only, for the current academic year.
+
+Q: How many subjects can I appear for in the supplementary exam?
+A: You can appear for a maximum of 50% (ceiling value) of the total theory subjects of the current academic year (both Autumn and Spring semesters combined).
+
+Q: Is there a grade penalty in the supplementary exam?
+A: Yes. You will ordinarily receive one grade lower than your actual scored grade in the supplementary exam, subject to a minimum of C grade (i.e., C grade remains unchanged). However, there is NO grade penalty if you attend summer term classes and satisfy the attendance criteria.
+
+Q: Can I use the supplementary exam to improve my grade?
+A: Yes. You can appear in the supplementary exam to improve grades in a maximum of 3 theory subjects where you currently have a C or D grade, and there will be no grade reduction in this case.
+
+Q: How many subjects can I register for grade improvement during a regular semester?
+A: You can register fresh in a maximum of 3 theory subjects (where you have already passed) for grade improvement. The formula is: N = 3 − (number of current backlog subjects). The final grade is the best between your original and improvement attempt.
+
+Q: What are the promotion criteria from one year to the next?
+A: To be promoted from year i to year (i+1), you must:
+1. Have no more than 5 backlog subjects in the current academic year (both semesters combined).
+2. Have no backlogs from any year below the current year.
+3. Not be under suspension or denied regular student privileges at the time of promotion.
+
+Q: What is the minimum degree requirement for B.Tech?
+A: You must:
+1. Complete all credit requirements with a minimum D grade in every theory and minimum C grade in every practical/sessional.
+2. Achieve a CGPA of 6.0 or higher.
+3. Clear all institutional and hostel dues.
+4. Have no pending disciplinary action.
+
+==============================================
+SECTION 5: ACADEMIC CALENDAR 2025-26
+==============================================
+
+Q: When does the 1st semester B.Tech Autumn 2025 session start and end?
+A: Autumn Session for 1st Semester: 18th July 2025 to 29th November 2025.
+
+Q: When is registration for 1st semester students in 2025?
+A: Registration, Academic Induction, and Sharing of Academic Vision for 1st Semester: 18th July 2025 to 23rd July 2025.
+
+Q: When is the mid-semester exam for 1st semester students in 2025?
+A: Mid-Semester Examination for 1st Semester: 8th September 2025 to 13th September 2025.
+
+Q: When is the end-semester exam for 1st semester students in 2025?
+A: End-Semester Examination for 1st Semester: 21st November 2025 to 29th November 2025.
+
+Q: When does the 2nd semester Spring 2026 session start?
+A: The 2nd Semester Spring Academic Session starts on 1st December 2025 and ends on 20th April 2026.
+
+Q: When is the mid-semester exam for 2nd semester in 2026?
+A: Mid-Semester Examination for 2nd Semester: 2nd February 2026 to 7th February 2026.
+
+Q: When is the end-semester exam for 2nd semester in 2026?
+A: End-Semester Examination for 2nd Semester: 13th April 2026 to 20th April 2026.
+
+Q: When does the 5th and 7th semester Autumn 2025 session start?
+A: The Autumn session for 5th and 7th Semester starts on 7th July 2025 and ends on 19th November 2025.
+
+Q: When is the mid-semester exam for 5th and 7th semester students in 2025?
+A: Mid-Semester Examination for 5th and 7th Semester: 8th September 2025 to 13th September 2025.
+
+Q: When is the end-semester exam for 5th and 7th semester students in 2025?
+A: End-Semester Examination for 5th and 7th Semester: 10th November 2025 to 19th November 2025.
+
+Q: When does the 6th and 8th semester Spring 2026 session start?
+A: The Spring session for 6th and 8th Semester starts on 21st November 2025 and ends on 13th April 2026.
+
+Q: When is the end-semester exam for 6th and 8th semester students in 2026?
+A: End-Semester Examination for 6th and 8th Semester: 4th April 2026 to 13th April 2026.
+
+Q: When does the next academic year (July 2026) begin?
+A: The next semester (July 2026) starts in the 1st week of July 2026 for all batches.
+
+==============================================
+SECTION 6: COURSE CURRICULUM & REGISTRATION
+==============================================
+
+Q: What are the total credits required for B.Tech CSE?
+A: The total minimum credits required for B.Tech in Computer Science and Engineering is 162 credits (as per the KIITDUCSE22 curriculum).
+
+Q: What are the credit categories for B.Tech at KIIT?
+A: Credits are distributed across:
+- Humanities and Social Sciences (HASS): 12 credits
+- Basic Sciences (BS): 30 credits
+- Engineering Sciences (ES): 19 credits
+- Program Core (PC): 59 credits
+- Program Electives (PE): 15 credits
+- Open Electives: 6 credits
+- Projects/Internship: 14 credits
+Total: 155 credits (standard B.Tech)
+
+Q: How are credits assigned to courses at KIIT?
+A: Credits are assigned as follows:
+- 1 credit for each lecture/tutorial period per week.
+- 0.5 credit per hour for each Laboratory, Practical, Project, or Sessional.
+
+Q: What is a Minor discipline and how can I opt for it?
+A: A Minor allows you to gain expertise in an area outside your major B.Tech discipline. You need to complete an additional 20 credits from that minor's course basket (6 credits from Open Electives can be counted). Eligibility: CGPA of 7.5 or above after the 4th semester. Applications are submitted at the end of the 5th semester. Minor courses run from the 6th to 8th semester. The minor is mentioned on your degree certificate.
+
+Q: What is a B.Tech (Honours) degree?
+A: B.Tech (Honours) requires 9 additional credits beyond the standard degree. Eligibility: CGPA of 8.0 or above after the 5th semester. Applications are submitted at the end of the 6th semester. Honours courses run in the 7th and 8th semesters and are mentioned on your degree certificate.
+
+Q: What are Open Electives?
+A: Open Electives allow you to choose subjects offered by any School at KIIT, enabling you to pursue interests outside your branch and work toward earning a Minor. They are offered in Semesters 5 through 8.
+
+Q: What is K-Explore?
+A: K-Explore is a practice-based Open Elective offered in Semester 5. It considers students' co-curricular and extra-curricular activities for evaluation and provides flexibility in learning.
+
+Q: What is a Vocational Elective?
+A: Vocational Electives (offered in Semester 3) give engineering students deeper appreciation of practical aspects of engineering by relating theoretical knowledge to practical skills. One vocational elective must be chosen from the options announced each semester.
+
+Q: How do I register for courses each semester?
+A: All students must register/enroll at the beginning of each semester through the online SAP portal of KIIT on the date specified in the Academic Calendar. A student with backlogs must register for the oldest backlog courses first.
+
+Q: What happens if I miss the registration date?
+A: If you miss the specified registration date, the Dean may allow you to enroll within one week with a fine. After one week, you need special permission from the Chairperson of the Academic Council through your Tutor-Mentor and Dean.
+
+Q: What is the internship requirement in B.Tech?
+A: As part of the B.Tech curriculum, students must complete an industrial internship in India for a minimum of 4 weeks. It must be done during the summer vacation after the 4th semester or any subsequent vacation before the final semester. On successful completion, 2 credits are awarded.
+
+Q: What is a semester exchange program at KIIT?
+A: KIIT has MoUs with eminent academic institutions in India and abroad for semester exchange. Selected students can go on exchange visits for 1 or 2 semesters. Credits and grades earned abroad are converted to KIIT equivalents as per Academic Council approved criteria.
+
+Q: What is the Summer Vacation Semester for?
+A: The Summer Vacation Semester is offered to students who wish to clear backlog courses or spend a semester off-campus. No student can register for more than 3 courses in a summer semester. A fee is charged per credit registered. Withdrawal from summer courses is not permitted.
+
+==============================================
+SECTION 7: STUDENT LIFE & CAMPUS
+==============================================
+
+Q: What library facilities are available at KIIT?
+A: The School of Computer Engineering Library is open 24x7 (except 3 national holidays) and holds:
+- 16,046 reference books and 1,45,713 textbooks across 21,053 titles
+- 1,36,268+ e-books and 28,000+ e-journals
+- 46 e-databases, 521 CDROMs
+- Key databases: IEL Online, ScienceDirect, EBSCO, Taylor & Francis, Proquest, Scopus, Web of Science, Derwent Innovation (Patents), Turnitin (anti-plagiarism)
+- Fully automated via LIBSYS-10 LMS Software
+- Access via: https://library.kiit.ac.in
+
+Q: What sports facilities are available at KIIT?
+A: KIIT has 18 international-standard sports complexes across multiple campuses, including:
+- 15 swimming pools (indoor and outdoor)
+- BCCI-approved Cricket Stadium (20,000 seating capacity)
+- FIH-certified Hockey Stadium (astroturf, 5,000 seats)
+- Football and Rugby Stadiums
+- Olympic-size swimming pool
+- International Archery Stadium and Chess Hall
+- 10 basketball courts, 14 badminton courts, 10 lawn tennis courts
+- Gyms, yoga halls, billiards, squash courts, table tennis
+- Dedicated sports complex exclusively for girl students
+
+Q: What is KSAC?
+A: KSAC stands for KIIT Student Activity Centre. It governs 28 official student societies covering music, dance, painting, photography, film, designing, theatre, fashion, quizzing, marketing & finance, IT & web, robotics, aeronautics, and more. KSAC organizes major events like KIITFEST (annual Techno-cultural fest), KIIT International MUN, Udghosh (National Open Quiz), Pratijja (Asian Parliamentary Debate), and TEDxKIIT University.
+
+Q: What healthcare facilities are available on campus?
+A: Kalinga Institute of Medical Sciences (KIMS) is a 1750-bed Super-specialty Hospital located within the KIIT campus next to the hostels. It has 16 state-of-the-art Operation Theatres, 100 ICU beds, 24x7 Blood Bank, 24x7 Emergency/Casualty, NABL-accredited Central Laboratory, and 24x7 ambulance service. All services are available to students and staff round the clock.
+
+Q: What hostel facilities does KIIT have?
+A: KIIT has separate hostels for boys and girls with round-the-clock wireless internet and intranet connectivity. All hostels have attached canteens serving Indian and Continental food. There is a dedicated international hostel for foreign students. Each hostel has a 24-hour reading room and indoor/outdoor games facility. There are also 15 food courts specializing in cuisines from across India and the world.
+
+Q: What is the Student Counselling Cell at KIIT?
+A: The Student Counselling Cell provides emotional, psychological, social, and academic support to students throughout their stay. It operates through a 3-tier system: (1) Hostel Superintendent for first-level support, (2) Counselling Cell for deeper intervention via trained counsellors, (3) External referrals to academic advisors, T&P, or International Relations when needed. Contact: sucheta@kiit.ac.in
+
+Q: What is the Training and Placement (T&P) facility at KIIT?
+A: The T&P Office is located at Kolab Campus. It provides:
+- Industrial internship arrangements
+- Pre-placement training (technical and non-technical — GD, PI, English, aptitude)
+- Campus selection management for all schools
+Contact: tnp.scs@kiit.ac.in
+
+Q: What were the placement highlights in the latest season?
+A: Key placement stats:
+- 5,585+ total job offers
+- 750+ recruiting companies
+- 300+ "Day Zero" recruiters
+- 1,500+ paid internships
+- 94% overall placement rate
+- School of Technology (CSE): 3,800+ offers, Highest CTC 51 LPA, Average CTC 8.5 LPA
+
+Q: What is the NCC/NSS setup at KIIT?
+A: KIIT has multiple NCC and NSS units for boys and girls, with 500 students in each unit. The main aims are to involve youth in constructive developmental programmes and foster national integration. A Chancellor's Trophy is awarded to the best performing students annually.
+
+Q: Is mobile phone usage allowed in classrooms?
+A: No. Mobile phones are not permitted in classrooms, the library, academic areas, or examination halls. Violations are treated as a disciplinary offence.
+
+Q: Is smoking or drinking allowed on KIIT campus?
+A: No. KIIT Campus is a Smoking-Free and Alcohol-Free Campus. Possession or consumption of narcotic drugs, tobacco, alcohol, and other intoxicating substances are strictly prohibited in the campus and hostels.
+
+Q: Are motor vehicles allowed for students on campus?
+A: No. Motor vehicle usage by students inside the campus and hostel is banned. Day scholars can use the University transport facility for commuting.
+
+==============================================
+SECTION 8: COMPLIANCE, CONTACTS & SERVICES
+==============================================
+
+Q: Where do I apply for a Bonafide Certificate?
+A: All Bonafide Certificate requests (for education loan, scholarship, passport, course-continuing, application for higher studies) should be sent to the School Compliance Cell at: compliance.cse@kiit.ac.in
+
+Q: Where do I report a discrepancy in my marks or grade sheet?
+A: For B.Tech students admitted in 2020 or 2019 batches, M.Tech, and Ph.D. students: acoe.cese@kiit.ac.in | For B.Tech students admitted in 2018 or 2017 batches: acoe.csit@kiit.ac.in
+
+Q: Who do I contact for laptop issues?
+A: For laptop delivery or technical faults: laptop.service@kiit.ac.in or helpdesk@kiit.ac.in
+
+Q: Who do I contact for hostel-related matters?
+A: For all hostel matters: hostel@kiit.ac.in
+
+Q: How do I contact the Dean of Academics for CSE?
+A: Dr. Bhabani Sankar Prasad Mishra | dean.cs@kiit.ac.in | 9438037401
+
+Q: How do I contact the Dean of Academics for IT?
+A: Dr. Arup Abhinna Acharya | dean.it@kiit.ac.in | 9861058079
+
+Q: Who is the Director General of the School of Computer Engineering?
+A: Dr. Biswajit Sahoo | director.csit@kiit.ac.in | 9437229507
+
+Q: Who is the Vice Chancellor of KIIT?
+A: Prof. (Dr.) Saranjit Singh | vicechancellor@kiit.ac.in | 9437035188 (Note: confirm current status as this may change.)
+
+Q: Who do I contact for Training, Placement, and Internship Bonafide Certificates?
+A: School T&P Cell: tnp.scs@kiit.ac.in
+
+Q: Where do I submit complaints or grievances?
+A: Students can submit all types of requests (grievances, complaints, requirements) to the School Compliance Cell. Every application must include Full Name, Roll No, Branch, Semester, and Contact Number. Email: compliance.cse@kiit.ac.in
+
+Q: What is the Student Counselling contact?
+A: Dr. Sucheta Priyabadini | sucheta@kiit.ac.in | Director, Student Counselling
+
+Q: Who do I contact for fee discrepancy or SAP reflection issues?
+A: Accounts Section: manoj.meher@kiit.ac.in
+
+Q: How do I get a Railway Concession Pass?
+A: Submit a request to the School Compliance Cell at compliance.cse@kiit.ac.in with your identity proof and student details.
+
+==============================================
+SECTION 9: DISCIPLINE & CONDUCT
+==============================================
+
+Q: What are the major disciplinary offences at KIIT?
+A: Major offences include ragging, sexual harassment, violence, use of weapons, possession of drugs/alcohol/tobacco, gambling, plagiarism, copying in examinations, forging documents, vandalism, and violations of the Indian Penal Code.
+
+Q: What is the punishment for ragging at KIIT?
+A: Ragging in any form is strictly prohibited. It can lead to expulsion (permanent dismissal) from the University. All students and guardians must sign an undertaking against ragging at the time of admission.
+
+Q: What are minor sanctions for disciplinary violations?
+A: Minor sanctions include: written warning, tendering an apology, suspension of privileges (events, placements, lab access), hostel changes or expulsion from hostel, fines up to Rs. 10,000, and community service hours.
+
+Q: What are major sanctions for serious disciplinary violations?
+A: Major sanctions include: debarring from examinations, course/semester drop, rustication for a specified period, restitution (monetary compensation for damages), forfeiture of caution deposit, and expulsion (permanent dismissal from the University).
+
+Q: How do I appeal against a disciplinary action?
+A: A student aggrieved by any disciplinary action can appeal to the Director (Student Affairs) within two weeks with proper justification. Any student aggrieved by the Director (SA) can appeal to the Pro-Vice Chancellor. The decision of the Pro-Vice Chancellor is final and binding.
+
+Q: Is plagiarism allowed at KIIT?
+A: No. Plagiarism in any form is strictly prohibited at KIIT. The library provides access to Turnitin anti-plagiarism software. Academic plagiarism is treated as an examination malpractice.
+
+==============================================
+SECTION 10: KIIT NEXUS & COMMUNITY
+==============================================
+
+Q: What is KIIT NEXUS?
+A: KIIT NEXUS is a project-driven technical society at KIIT that bridges the gap between academic learning and industry-level product development. It focuses on ensuring every member builds real-world, deployable projects and is placement-ready by their 3rd year.
+
+Q: Who are the founders of KIIT NEXUS?
+A: Founder: Abhishek Dhal (2nd Year B.Tech) | Co-Founder: Aditya Vikram Singh (2nd Year B.Tech)
+
+Q: What is KIIT Quest?
+A: KIIT Quest is an app built by the KIIT NEXUS team. It is live on the Google Play Store and helps KIIT students with exam preparation through Previous Year Questions (PYQs) and study materials. Future versions will include Placement Analytics.
+
+Q: What is kiitnexus.in?
+A: kiitnexus.in is the official live platform of KIIT NEXUS used for internal assessments, progress tracking, competitions, and leaderboards for community members.
+
+Q: What domains can I join in KIIT NEXUS?
+A: Technical domains: Web Development, Android Development, Flutter, Machine Learning.
+Non-technical domains: Graphic Designing, Broadcasting, Marketing, Operations.
+
+Q: What will I achieve by the end of 2nd year if I join KIIT NEXUS?
+A: By the end of your 2nd year, you will have:
+- At least 2 live, deployable projects
+- 1 research-based or innovative project
+- An industry-ready GitHub portfolio
+- Resume-ready impact statements for placements
+
+Q: What placement preparation does KIIT NEXUS offer?
+A: KIIT NEXUS integrates DSA (Data Structures and Algorithms), aptitude, reasoning, and Core CS modules (OS, DBMS, Computer Networks, OOP) into its roadmap to make every member placement-ready by 3rd year.

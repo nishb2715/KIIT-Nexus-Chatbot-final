@@ -1,0 +1,1474 @@
+STUDENT HANDBOOK
+OF
+INFORMATION
+Bachelor of Technology (B.Tech.)
+SCHOOL OF COMPUTER ENGINEERING
+KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY
+DEEMED TO BE UNIVERSITY
+(u/s 3 of UGC Act, 1956)
+BHUBANESWAR-751024
+ODISHA – INDIA
+
+Student Hand Book of Information [2022-23]
+“Education is the passport to the future, for tomorrow belongs to
+those who prepare for it today.” — Malcolm X
+School of Computer Engineering Page 2
+
+Student Hand Book of Information [2022-23]
+CONTENTS
+Item Page No.
+ABOUT SCHOOL 5
+ORDINANCES 6
+RULES AND REGULATIONS 7
+Sl. No. Item Page No.
+R.1 Academic Calendar 7
+R.2 Course Structure 7
+R.3 Minor Discipline 8
+R.4 Honours Courses 9
+R.5 Course Committee 10
+R.6 Registration 10
+R.7 Attendance 11
+R.8 Assessment procedure: Tests and Examinations 11
+R.9 Grading system 12
+R.10 Grade sheet 13
+R.11 Declaration of results 14
+R.12 Supplementary examination 14
+R.13 Subjects registration for grade improvement 15
+R.14 Summer vacation semesters 16
+R.15 Internship 16
+R.16 Semester exchange 16
+R.17 Eligibility for award of the B.Tech. Degree 17
+R.18 Maximum duration of the program 17
+R.19 Scholarships 18
+R.20 Students‟ conduct and disciplinary code 19
+R.21 Power to modify 25
+SUPPORT SERVICES
+S.1 Library 25
+S.2 Recreational facilities 26
+S.3 Training and placement 26
+S.4 Health care 26
+S.5 Student activity center 27
+S.6 Student counseling cell 27
+S.7 Compliance cell 27
+S.8 ICT cell 28
+School of Computer Engineering Page 3
+
+Student Hand Book of Information [2022-23]
+Appendix
+Sl. No. Item Page No.
+A School Contact Persons 29
+B University Contact Persons 31
+C Recreational Facilities 32
+D Academic Calendar 33
+E Fee structure for Certificates & Reports Issuance 36
+F University Ranking and Achievements 37
+G Point of Contact for Requirement Redressal 38
+School of Computer Engineering Page 4
+
+Student Hand Book of Information [2022-23]
+ABOUT THE SCHOOL
+The School of Computer Engineering, at the Kalinga Institute of Industrial
+Technology Deemed to be University, Bhubaneswar was formed in the year
+1997. The School offers B.Tech., M.Tech., and Ph.D. programme. The School
+has a comprehensive curriculum that includes up-to-date courses on
+nascent topics, including all aspects of Computer Hardware and Software,
+emphasizing practical learning.
+The School has state-of-the-art infrastructure and computing equipment
+supported by high-speed Ethernet and wireless networks. Our faculty
+members aim at delivering top class education by blending their rich
+research experience with classroom teaching. The School has undertaken
+research projects funded both by government agencies and private sectors.
+The strategic commitment of KIIT Deemed to be University provides the road
+map for the journey towards excellence. These strategies include the Vision
+and Mission that would be instrumental in placing KIIT among the top
+academic institutions of the world. The strategies will create new
+opportunities for the faculties and the students to enhance knowledge,
+perform cutting-edge research, and develop professional skills. The ultimate
+aim is to provide the students with an educational training that emphasizes
+innovation, social awareness, and professional ethics and nurture
+leadership skills. A resourceful environment to promote creativity and
+entrepreneurship amongst researchers is also being developed while
+maintaining sustainable goals, upholding the values of the highest
+professional ethics, and enriching the lives of humanity.
+Prof. (Dr.) Achyuta Samanta, Founder of KIIT & KISS, is an eminent
+educationist, philanthropist, and social worker. He spares no effort to groom
+our students in their chosen discipline and broaden their mindsets and
+create positive attitudes, thus equipping them with all qualities to make
+them an asset to society. At the forefront of his vision lay his unrelenting
+quest to ensure that millions of marginalized people across the country
+benefited from educational inclusion. His unparalleled initiatives have
+translated the dreams of many into a productive reality. His foresight,
+leadership, and determination propelled the KIIT group of institutions to
+attain many milestones. Still, most importantly, his philanthropic pursuits
+continue to comfort the lives of countless people in education, healthcare,
+and across the various section of society.
+Prof.(Dr.) Achyuta Samanta and his work can be followed @
+achyutasamanta.com kiss.ac.in
+www.facebook.com/AchyutaSamanta twitter.com/achyuta_samanta
+The University is ranked as one of the topmost Engineering Universities
+across the country by various survey agencies, as given in the Appendix F.
+School of Computer Engineering Page 5
+
+Student Hand Book of Information [2022-23]
+ORDINANCES
+O.1 All B.Tech. programmes offered by the University shall be governed by
+the B. Tech Rules and Regulations.
+O.2 Admission to B.Tech. degree program will be made through a KIIT Joint
+Entrance Examination (KIITEE) conducted by KIIT. Based on the KIITEE
+rank, the applicants will be called for Single Window Counseling (SWC)
+process, the applicants can select their branch of study as per their
+preference.
+O.3 The University is fully residential and all students shall be required to
+reside in, and be members of a hostel to which they are assigned. Under
+special circumstances, the Director may permit a student to reside with
+his/her Parent/Guardian in the University campus or within a reasonable
+distance from the University.
+O.4 A student becomes eligible for the award of the B.Tech. degree after
+fulfilling all the academic requirements and extra-academic activities in
+accordance with the regulations of the program approved by the Academic
+Council.
+O.5 The University shall have the following B.Tech. branches under School
+of Computer Engineering:
+i. Computer Science & Engineering
+ii. Information Technology
+iii. Computer Science & Communication Engineering
+iv. Computer Science & System Engineering
+O.6 Medium of instruction, examination and project reports will be in
+English.
+O.7 Each academic session is divided into two regular semesters (Autumn &
+Spring) and one vacation semester (Summer) and follows an Academic
+Council approved schedule of academic activities.
+O.8 To help the students in planning their courses of study, getting general
+advice on the academic programme and monitoring their activities, the
+concerned school will normally assign a faculty as Tutor Mentor for a group
+of students.
+School of Computer Engineering Page 6
+
+Student Hand Book of Information [2022-23]
+RULES & REGULATIONS
+R.1 ACADEMIC CALENDAR
+Each academic session is divided into two regular semesters of
+approximately fifteen weeks of classes duration per semester (with ninety
+working days): an Autumn Semester (normally July-November) and a Spring
+Semester (normally December-May). Further, there are one vacation
+semesters (Summer) of nearly 6-8 weeks duration as well.
+The Academic Council approved schedule of academic activities for a
+session, including dates of registration, examinations, semester breaks etc.
+shall be laid down in the Academic Calendar of that session. The current
+academic calendar is given in Appendix – D.
+R.2 COURSE STRUCTURE
+R.2.1 Teaching of the courses shall be reckoned in credits; Credits are
+assigned to the courses based on the following general pattern: ·
+ One credits for each lecture/tutorial period.
+ Half credit per hour for each Laboratory, Practical, Project, or
+sessional.
+R.2.2 In order to qualify for a B.Tech. degree of the University, a student is
+required to complete the credit requirement as prescribed in the curriculum
+for a particular programme. The credit requirements for a B.Tech. Degree in
+Computer Science & Engineering and Information Technology are given in
+Table 1.
+Table 1: Total Credit details for B.Tech. Program
+Total credits
+Sl. Options for 4 year required to Remarks
+No. UG Program complete the
+course
+1 “B.Tech.” in an 155 Credits
+engineering major
+discipline.
+2 "B.Tech. with Minor” 169 Credits (155 credit B.Tech. +
+(minor in any other 14 Credit minor course
+discipline than major work)
+discipline)
+3 “B.Tech. with 164 Credits (155 Credit B.Tech. + 9
+Honors” Credit Honors course
+work).
+In case of Computer Science & Communication Engineering and Computer
+Science & System Engineering credits are 156 and 154 respectively.
+School of Computer Engineering Page 7
+
+Student Hand Book of Information [2022-23]
+R.2.3 The course work requirements may be broadly divided into main
+groups of subjects given in Table 2.
+Table 2: Group-wise Credit Requirements
+Category Credits
+Requirements
+Humanities and Social Sciences (HS) 12
+Basic Sciences (BS) 30
+Engineering Sciences (ES) 19
+Program Core (PC) 59
+Program Electives (PE) 15
+Open Electives 6
+Projects/ Internship 14
+Graduation Requirements 155
+R.2.4 Every B. Tech. Programme will have a curriculum and syllabi for the
+courses approved by the Academic Council. The Board of Studies of the
+school will discuss and recommend the syllabi of all the undergraduate
+courses offered by the school from time to time to the Academic Council for
+consideration and approval. For all approved courses, the copyright will be
+with KIIT.
+R.3 MINOR DISCIPLINE
+R.3.1 A minor discipline is intended for a student to gain expertise in an
+area outside his/her major B.Tech. discipline.
+R.3.2 In order to successfully complete a Minor, a student needs to take an
+additional 20 credits out of the courses defined in that minor basket.
+However, the 6 credits earned under Open Electives may be counted for
+Minor requirements if needed.
+R.3.3 Students completing a minor will have the minor mentioned in the
+degree certificate and in the final grade card.
+R.3.4 The minor courses are distributed over the 6th to 8th semesters of a
+B.Tech programme.
+R.3.5 Students, who have completed all the credits required in the first four
+semesters of their studies with a CGPA of 7.5 or above, are eligible for a
+minor discipline after the end of 5th semester.
+R.3.6 Applications for joining a minor discipline must be submitted by
+intending eligible students in the prescribed form. The academic section will
+call for applications at the end of the 5th semester of each academic year and
+the completed forms must be submitted by the last date specified in the
+notification.
+School of Computer Engineering Page 8
+
+Student Hand Book of Information [2022-23]
+R.3.7 The number of seats in each minor discipline is decided by the
+Academic Council. The intake in every minor discipline will be notified by
+the academic section at the time of calling applications. However, a minor
+discipline will not be available if the number of applicants in that discipline
+is less than five.
+R.3.8 Students may enlist their choices of a minor discipline in order of
+preference, to which they wish to join. It will not be permissible to alter the
+choices after the application has been submitted.
+R.3.9 Selection to minor disciplines shall be made strictly in order of merit
+of the applicants. For this purpose, the CGPA obtained at the end of the 4th
+semester shall be considered.
+R.3.10 Joining the minor disciplines carried out in accordance with the
+above rules will be effective from the 5th semester of the applicants
+concerned. No change of minor discipline shall be permitted after this.
+R.3.11 A student with only minor courses remaining as backlogs at the
+beginning of a semester (other than a Summer semester) will be deemed to
+have completed the B. Tech. programme and he/she will be awarded a
+B.Tech. degree without a minor.
+R.3.12 A student can opt out from the Minor discipline by expressing
+his/her intent in the prescribed form. Once a student opts out, he/she will
+not be allowed to rejoin the Minor discipline.
+R.4 HONOURS COURSES
+R.4.1 Students may opt for a B.Tech (Honours) degree. Students completing
+a B.Tech (Honours) will have the Honours mentioned in the degree
+certificate and in the final grade card.
+R.4.2 The additional credit requirements for a B.Tech (Honours) will be 9
+credits. The Honours courses will spread over the 7th & 8th semesters of a
+B.Tech programme.
+R.4.3 Students who have completed all the credits required in the first five
+semesters of their studies with a minimum CGPA of 8.0, will be eligible for a
+Honours after the end of 6th semester.
+R.4.4 Applications for joining a B.Tech (Honours) must be submitted by
+intending eligible students in the prescribed form. The academic section will
+call for applications at the end of the 6th semester of each academic year.
+However, a B.Tech (Honours) will not be available if the applicants in that
+discipline is very less in number.
+School of Computer Engineering Page 9
+
+Student Hand Book of Information [2022-23]
+R.4.5 Student having backlog in Honours courses alone, will be deemed to
+have completed the B. Tech. programme and he/she will be awarded a
+B.Tech. degree without a Honours.
+R.5 COURSE COMMITTEE
+R.5.1 The Course Committee consists of all faculty members assigned to the
+course to monitor the conduct and progress of the course in a semester. One
+faculty member will be assigned as the Coordinator. There will be one
+Course Committee for each set of courses being offered in a semester.
+R.5.2 The Course Committee shall meet at least thrice in a regular semester:
+first at the beginning of the semester, second and third before the mid-
+semester and end semester examinations respectively. After each meeting of
+the Course Committee members, the coordinator shall meet separately with
+the student representatives for confidential feedback.
+R.5.3 The basic responsibilities of a Course Committee are to:
+i. Prepare a common course plan (lesson plan, course outcome, course
+objective, activity schedule, evaluation scheme, text and reference
+books etc.)
+ii. Review periodically the progress of the courses.
+iii. Discuss any issues concerning the conduct of the classes.
+iv. Decide distribution of the weight for tests, quizzes, assignments,
+laboratory work, etc. This should be done in the first Course
+Committee meeting.
+R.5.4 For any difficulty related to a course, the student is expected to
+approach the respective course coordinator for advice and clarification.
+R.5.5 The course coordinator will communicate the minutes of the Course
+Committee meetings, especially those of the first and second Course
+Committee meetings, to the Dean.
+R.6 REGISTRATION
+R.6.1 Enrollment from the second semester onward. All students will have to
+report and register/enroll on a day specified in the Academic Calendar at
+the beginning of the semester through the online portal (SAP) of the
+University.
+R.6.2 A student will be eligible for enrollment only if he/she satisfies the
+conditions under promotion criteria and will be permitted to enroll only if
+he/she has cleared all dues to the institute up to the end of the previous
+semester, provided he/she is not debarred from enrollment, on disciplinary
+grounds.
+School of Computer Engineering Page 10
+
+Student Hand Book of Information [2022-23]
+R.6.3 If a student fails to report on the specified date, he/she may be
+allowed by the Dean to enroll within one week from the reporting date with a
+fine. The amount of fine will be specified from time to time.
+R.6.4 Under exceptional circumstances, a student may be allowed to enroll
+after one week of enrollment date with permission from Chairperson,
+Academic Council through Tutor Mentor and the Dean.
+R.6.5 The student must register for the backlog courses first giving priority
+to the oldest backlogs.
+R.7 ATTENDANCE
+R.7.1 Students are required to attend all the classes (Lectures/ Tutorials,
+Laboratories, Sessional, Workshops etc) for which they have been registered.
+R.7.2 For the purpose of attendance calculation, every scheduled lecture,
+tutorial or practical class will count as one unit irrespective of the number of
+contact hours.
+R.7.3 A student will be debarred from appearing in an end semester
+examination if his/her attendance falls below 75% and will be awarded an
+“I” grade in that course.
+R.7.4 Leave of Absence: If the period of leave not exceeding two weeks in a
+semester, prior application for leave shall have to be submitted to the
+respective Dean stating fully the reasons for the leave requested for along
+with supporting document(s). Dean may condone, if prior application could
+not be made for any unavoidable reasons.
+R.7.5 In case the period of absence is likely to exceed two weeks,
+an application for grant of leave will have to be submitted through the Dean
+to the Director with supporting documents for sanction of leave.
+R.7.6 The leave of absence will not be condoned for attendance.
+R.7.7 It will be the responsibility of the student to intimate the Warden of
+the hostel in which he/she is residing, and the concerned instructors
+regarding his/her absence before availing the leave.
+R.7.8 In exceptional circumstances, Director in consultation with the
+Chairman, Academic council may relax any of the above requirements.
+R.8 ASSESSMENT PROCEDURE – TESTS AND EXAMINATIONS
+R.8.1 The system of assessment procedure may vary from course to course.
+The theory course consists of the following components:
+School of Computer Engineering Page 11
+
+Student Hand Book of Information [2022-23]
+i. Activities (30%): Components as part of the assessment procedure
+such as surprise quizzes, assignments, projects, practical tests, viva
+voce etc. as per the requirements of a course.
+ii. Mid-semester (20%): there shall be one mid-semester examination,
+generally of 1 hour duration.
+iii. End-semester examination (50%): there shall be one end-semester
+examination, generally of three hours duration.
+R.8.2 The general practice for practical courses follows continuous
+assessment (60%) and end semester exam (40%).
+R.8.3 In sessional courses, 100% assessment is made in the class.
+R.8.4 The detailed break-up of marks for various components of the
+assessment procedure have to be announced and recorded in the first
+Course Committee meeting. The Dean (Academics) should be informed
+about the scheme of evaluation of a course after the first Course Committee
+meeting.
+R.8.5 Students who have missed the regular activities for valid reasons may
+request for make-up activities to the respective course instructor. If the
+course instructor is satisfied with the explanation provided by the student,
+he/she may conduct the make-up activities.
+R.8.6 Students who have missed the mid-semester/laboratory/ sessional
+examinations for valid reasons may request for a make-up examination to
+the respective course instructor within ten days from the date of the
+examination missed. If the course instructor is satisfied with the explanation
+provided by the student, he/she may conduct the make-up exam either
+during the make-up exam slots mentioned in the Academic Calendar or as
+per the convenience of both the parties. If the instructor is not satisfied with
+the explanation, he/she may reject the application.
+R.9 GRADING SYSTEM
+R.9.1 The performance of a student in a course is denoted by a letter grade.
+The letter grades, their interpretation and the corresponding grade points
+are given in Table 3.
+R.9.2 The I-grade indicates a temporary grade and that a part of the total
+requirement of the course remains to be completed and that the student has
+done satisfactory work in all other aspects of the course. The student is
+required to complete this small part within a prescribed date, generally
+within one month of the start of the following regular semester, and the
+course instructor will amend the I-grade to a regular grade within this
+period. If the conversion to a regular grade is not done within one month of
+the start of the following regular semester, the I-grade will automatically be
+converted to an F grade.
+School of Computer Engineering Page 12
+
+Student Hand Book of Information [2022-23]
+Table 3: Score – Grade Mapping
+Grade Score on 100 Grade Point value Interpretation
+O 90-100 10 Outstanding
+E 80-89 9 Excellent
+A 70-79 8 Very Good
+B 60-69 7 Good
+C 50-59 6 Average
+D 40-49 5 Below Average
+F Below 40 0 Fail
+I Incomplete
+R.10 GRADE SHEET
+R.10.1 The grade sheet issued at the end of a semester to each student will
+contain the following:
+i. The course number, course name and the credits for each course
+registered in that semester.
+ii. The letter grade obtained in each course
+iii. The total number of credits earned by the student upto the end of
+that semester
+iv. The Semester Grade Point Average (SGPA) for that particular
+semester
+v. the Cumulative Grade Point Average (CGPA) of all the courses taken
+from the first semester
+R.10.2 At the end of the program, Final Grade Report (FGR) containing
+details of all the courses taken by the student mentioning the overall CGPA
+will be issued along with the Degree certificate.
+R.10.3 Semester Grade Point Average (SGPA)
+The performance of a student in a semester is indicated by SGPA, which is a
+weighted average of the grades in all the courses done by the student in the
+given semester.
+SGPA is defined as follows:
+where C is the credits of a subject item, GP is the grade point corresponding
+to the grade obtained in that subject items and the summation is taken over
+all the subject items registered in that semester, including those in which
+the student has secured F grades but excluding those in which he/she has
+been assigned an “I” grade.
+School of Computer Engineering Page 13
+
+Student Hand Book of Information [2022-23]
+R.10.4 Cumulative Grade Point Average (CGPA)
+The performance up to any time in the course of the student‟s program is
+indicated by the student‟s CGPA, which is also calculated by the formula
+used for SGPA calculation, except that the averaging is done over all of the
+courses and credits that the student has taken during his/her entire
+program up to that point.
+R.11 DECLARATION OF RESULTS
+R.11.1 The Course instructor will display the marks awarded to the
+students along with their copies after completion of evaluation. If a student
+has grievances about the marks of a particular course, he/she will contact
+the concerned course instructor within two days. If the course
+instructor/chief examiner feels that the case is genuine, he/she may re-
+examine the case and put a revised mark, if applicable. No request after the
+deadline (two days) will be considered.
+R.11.2 The evaluation pattern and all assignments, quizzes, exams etc. used
+in evaluation shall be posted on the course Moodle page.
+R.11.3 The Course Committee will sit for analysis of the results and finalize
+the grades. After finalization, the course instructor will upload the marks
+of the students in a course on SAP portal in the prescribed format. The
+Controller office will compile all the results and announce the same to the
+students through E-mail and through SAP student self service portal of the
+University.
+R.12 SUPPLEMENTARY EXAMINATION
+R.12.1 A supplementary examination will be held annually at the end of
+each academic year for 1st, 2nd, 3rd & 4th year before the start of the next
+academic session for the current level theory subjects only.
+R.12.2 The students will be allowed to appear for their failed papers in the
+current level subject to a maximum of 50% (ceiling value) of the
+total subjects for the current academic year (both spring and
+autumn semesters).
+R.12.3 A student will ordinarily be assigned one Grade less than he/she
+actually obtains in a subject item in the supplementary examination subject
+to a minimum of C Grade or below, which would remain unchanged.
+R.12.4 However, there will not be any grade loss for a subject in the
+supplementary examination for a student who satisfy attendance criteria
+in the summer term classes.
+School of Computer Engineering Page 14
+
+Student Hand Book of Information [2022-23]
+R.12.5 A student will not be permitted to appear the subject in the
+supplementary examination, which is canceled as a disciplinary measure for
+adopting unfair means in the end semester examination.
+R.12.6 Students debarred in the annual examination must satisfy
+attendance criteria in summer classes to appear supplementary
+examination. Those students may opt for fresh internal evaluation ((i.e. quiz,
+assignments, mid-semester marks etc.).
+R.12.7 A student, who misses the end semester examination for one/more
+theory subject(s) for any genuine reason like medical ailments or mishap in
+the family, will be allowed to appear for those subjects in the supplementary
+examination without reduction in grade with the approval of the
+Vice Chancellor.
+R. 12.8 Students can appear in the supplementary examination for
+improvement of their grades for maximum 3 of the theory subjects in the
+current level where the grades are C or D and there will not be any grade
+reduction.
+R.12.9 Generally, the end semester exam alone is given as the
+supplementary examination and the continuous evaluation marks (i.e. quiz,
+assignments marks etc.) earned by the student in the original semester will
+be taken into account for calculating the final marks.
+R.13 SUBJECTS REGISTRATION FOR GRADE IMPROVEMENT
+REGISTRATION OF SUBJECTS FOR IMPROVEMENT OF GRADE
+R.13.1 A student can register fresh in maximum 3 (three) numbers of theory
+subjects, where he/she has passed, to improve his/her grade in those
+subjects. The number of available subjects (N) for a student is the difference
+between 3 and his/her number of backlog subjects. (N = 3 - number of
+backlog subjects)
+R.13.2 The student will register at the beginning of the semester only in the
+subsequent year.
+R.13.3 The student will go through the same schemes of evaluation (such as
+activities, mid semester examination and end semester examination) as
+applicable to the students in the regular subject(s) registration.
+R.13.4 The final grade in the subject, where student registers for
+improvement, would be the best between the grades secured in the regular
+registration and improvement registration.
+School of Computer Engineering Page 15
+
+Student Hand Book of Information [2022-23]
+R.14 SUMMER VACATION SEMESTERS
+R.14.1 The summer vacation semester courses will be offered to clear the
+backlog courses of the students and for students who wish to spend a
+semester off-campus based on the availability of the course instructors.
+R.14.2 No student should register for more than three vacation semester
+courses during a particular vacation semester.
+R.14.3 A student has to pay a fee for each credit registered in the vacation
+semester.
+R.14.4 The assessment procedure for a course will be similar to that of a
+regular semester course.
+R.14.5 Withdrawal from a vacation semester course is not permitted.
+R.15 INTERNSHIP
+R.15.1 As part of the B.Tech. curriculum, the students are required to do an
+industrial internship in India for a minimum period of 4 weeks, during the
+summer vacation following the 4th semester or any subsequent vacation
+before the final semester. Only in exceptional situations and only with
+approval from the respective Dean (Academics), a student will be allowed to
+do this internship at other time periods.
+R.15.2 The internship must be done in a technology oriented public/private
+sector company/industry or in reputed research/ academic organizations,
+such as CSIR, DRDO, BARC IIT.
+R.15.3 Internship with start-up companies, which are not registered yet, will
+not be considered.
+R.15.4 On successful completion of the internship, two credits will be
+awarded to the student for the same. These credits will be counted towards
+SGPA/CGPA calculations.
+R.16 SEMESTER EXCHANGE
+R16.1 KIIT has memorandum of understanding (MoU) for semester exchange
+visits with some eminent academic institutions in India and abroad.
+Selection of candidates for such exchange visits will be done through a
+competitive process.
+R.16.2 Selected students can go on exchange visits for one or two semesters.
+If the student goes on semester exchange visits for two semesters, these two
+semesters can be contiguous.
+School of Computer Engineering Page 16
+
+Student Hand Book of Information [2022-23]
+R.16.3 The semester exchange programs can only be undertaken with those
+institutes with whom KIIT has an MoU for such visits.
+R.16.4 Credits and grades earned during semester exchange visits will be
+converted to KIIT equivalent credits and grades as per the Academic
+Council approved conversion criteria in each case.
+R.17 ELIGIBILITY FOR AWARD OF THE B.TECH. DEGREE:
+R.17.1 Promotion: A student needs to satisfy the below mentioned
+conditions to be eligible for promotion from ith to (i+1)th year (to the next
+higher level):
+i. Number of backlog subjects should not be more than 5(five) at the ith
+year considering both the semesters in an academic year.
+ii. No backlogs at any stage below ith year (i.e. (i-1)th or (i-2)th year)
+iii. No suspension for a specified period by the University disciplinary
+committee and has not been denied the privileges of a Regular
+student at the time which admissions to higher levels is in progress.
+R.17.2 Degree requirement: In order to qualify for a B. Tech Degree of the
+University a student must:
+i. complete all the credit requirements for the Degree as laid down in
+the prescribed curriculum of the discipline with a minimum of D
+grade in every theory and a minimum of C grade in every practical &
+sessional item.
+ii. secure a CGPA of 6.0 or higher at the end of the semester in which
+he/she completes all the requirements for the Degree
+iii. clear all institutional and hostel dues of the University.
+iv. have no disciplinary action pending against him/her.
+R.17.3 Readmission:
+A student whose academic program is terminated under any of the above
+conditions may appeal to the Chairperson, Academic Council through Tutor
+Mentor and Dean (Academics) for mercy and a second chance to re-enroll in
+the program. The Chairperson, Academic Council may take appropriate
+decision on such applications on behalf of the Academic Council and the
+same shall be reported to the Academic Council.
+R.18 MAXIMUM DURATION OF THE PROGRAM
+R.18.1 The maximum permitted duration of each programme is determined
+in terms of number of registered regular semesters, herein after called
+registered semesters. Any semester in which a student has registered for a
+course will be called registered semester subject to the following:
+School of Computer Engineering Page 17
+
+Student Hand Book of Information [2022-23]
+(a) Only the first and second semesters of an academic year can be
+registered semesters. The summer semester will not be considered as a
+registered semester.
+(b) A semester when a student has been granted withdrawal or granted leave
+will not be considered as a registered semester.
+(c) The semester when a student is suspended from the Institute on
+disciplinary grounds will not be counted towards the number of registered
+semesters. The summer semesters falling in between the permitted
+registered semesters shall be available for earning credits.
+R18.2 The maximum permissible number of registered semesters for
+completing all degree requirements for the B. Tech. degree is twelve (12). If a
+student opts for the slow-paced programme, then the maximum permissible
+number of registered semesters shall be increased by two semesters.
+R.18.3 Semester Break/Temporary withdrawal from the Program: A student
+may be permitted by the Dean (Academics) to obtain semester break or
+temporary withdrawal from the program for a semester or longer duration
+for reasons of ill health or other valid reasons. Normally, a student will be
+permitted to withdraw from the program only for a maximum continuous or
+intermittent period of two semesters during the whole program duration.
+R.19 SCHOLARSHIPS
+R.19.1 Various types of scholarships have been instituted by the University
+for encouraging the meritorious students. The quantum and period of
+scholarships are subject to change from time to time as decided by the
+Academic Council. The details of various scholarships available for students
+shall be displayed on University Website from time to time.
+R.19.2 Pradyumna Bal Memorial Scholarships: This scholarship is
+instituted in the memory of Late Pradyumna Kishore Bal, Founder President
+of KIIT. Every year two economically challenged but meritorious students
+are provided completely free education under this scholarship scheme. The
+scholarship covers college fees, hostel dues including mess, books and any
+other ancillary expenses.
+R.19.3 KIIT Merit Scholarships: KIIT Merit Scholarship is awarded to the
+semester toppers (1st, 2nd & 3rd position) of each semester in each branch for
+a period of six months. The quanta of scholarships are subject to change
+from time to time as decided by the Academic Council.
+R.19.4 KIITEE Merit Scholarship is awarded to KIITEE General Rank
+holders from rank 1 to 1000 for a period of 4years, during the study period
+at Kalinga Institute of Industrial Technology (KIIT), Deemed to be University.
+KIITEE Merit Scholarship holders will not be awarded with KIIT Merit
+Scholarships. The quantum of scholarships are subject to change from time
+to time as decided by the Academic Council.
+School of Computer Engineering Page 18
+
+Student Hand Book of Information [2022-23]
+R.19.5 The student must satisfy the following terms and conditions for
+availing scholarship from KIIT:
+i. Maintain at least 75% attendance in each semester to be issued by
+Dean (Academics).
+ii. Secure at least 7.5 SGPA in each semester and clear all the papers in
+single sitting (no back paper) to be issued by Controller of
+Examinations.
+iii. Not indulge in any indiscipline activity to be issued by Director, SA.
+R.19.6 In the cases of scholarships provided by private organizations, the
+rates and terms and conditions for the award of such scholarship shall be
+as approved by the Academic Council.
+R.19.7 In the case of the SC/ST candidates, the award of scholarships and
+other benefits will be in accordance with the rules framed or amended by the
+Government of India/Odisha from time to time.
+R.19.8 The Dean (Academics) will lay down the administrative procedures to
+be followed in the selection of students for the award of various scholarships
+consistent with existing Government regulations if any. The number and
+names of the candidates selected for various scholarships will be reported to
+the Academic Council.
+R.20 STUDENTS’ CONDUCT AND DISCIPLINARY CODE
+R.20.1 Objectives and Scope of the Code
+The objective of Students‟ Conduct and Disciplinary Code is to protect the
+right of all members of the KIIT community and to maintain an atmosphere
+in the community appropriate for a University of higher education. The
+student discipline system is designed for an educational system and does
+not function as a court of law. Therefore, procedural issues, including the
+introduction and consideration of evidence, are handled in a manner
+consistent with that educational focus.
+The student will give an undertaking at the time of joining a course in this
+University to comply with the provisions envisaged in this code in letter and
+spirit and even if it is not given, he/ she will be bound by the provisions of
+this code. The student community should become familiar with and strictly
+adhere to the rules envisaged in this code.
+Any student exhibiting prohibited behavior mentioned in this code shall be
+subjected to disciplinary sanctions depending upon the gravity of the
+misconduct or depending on its recurrence. No refund or credit of tuition
+fees, or other costs associated with attendance of the University will be
+made to students when disciplinary sanctions are imposed which result in
+the student‟s being deprived of privileges and/ or access to services
+School of Computer Engineering Page 19
+
+Student Hand Book of Information [2022-23]
+R.20.2 Student found responsible for the violation of the Code of Conduct of
+the University outlined herein is subject to disciplinary sanctions.
+i. Any violation of any sort pertinent to the Indian Penal Code.
+ii. Violation of any policies, rules, or regulations published time to time
+by KIIT.
+iii. Conducts that interfere with the disruptions or obstructions of
+teaching, research, administration, or other KIIT activities.
+iv. Ragging in any form is prohibited in the premises of KIIT campus.
+v. Failing to comply with orders or directives of KIIT officials, University
+hearing bodies, Security Personnel, or any other law enforcement officers
+acting in the performance of their duties.
+vi. Furnishing false or misleading information to a member of the
+faculty, staff, student, or law enforcement official acting in an official
+capacity.
+vii. Forgery, alteration, destruction, misuse, of KIIT documents, including
+University records, applications for financial aid, admission, course
+changes or course credit, copying, misuse or alteration of transcripts,
+and student identification cards etc.
+viii. Influencing or attempting to influence another person to commit an
+abuse of the Code and Conduct of Student system.
+ix. Unauthorized use, Damage, defacement, or destruction of any private or
+University property.
+x. Attempted or actual theft or possession of private or University property.
+xi. Instigation of a disturbance in violation of KIIT policy and/or any local
+sound ordinance.
+xii. Discrimination against any member of the KIIT community, or a visitor,
+through biased or prejudicial behaviors related to the person‟s race,
+color, nationality, sex, religion, disability, age or sexual orientation.
+xiii. Encouraging/confronting with illegal activities and/or violation of
+Code and Conduct of Student by active/passive participation/ presence
+during the activity.
+xiv. Hazing, defined as, but not limited to, any act imposed on
+current or potential members of a group or organization that endangers
+the mental or physical health or safety of a person, that defaces or
+School of Computer Engineering Page 20
+
+Student Hand Book of Information [2022-23]
+destroys public or private property, that is likely to result in humiliation
+or ridicule, or that is likely to result in interference with academic
+efforts regardless of the consent of the participants, or any actions or
+activities prohibited by the KIIT authority.
+xv. Physical abuse, including, but not limited to, inflicting or threatening
+bodily harm upon any person, or acting in a manner which creates a
+risk of bodily harm to any person.
+xvi. Harassment, abuse, coercion, or threats by means other than the use
+or threatened use of physical force.
+xvii. Possession or use of any weapons/ dangerous/ explosive/ prohibited
+chemicals/device which constitutes a significant health hazard, without
+express authorization by an authorized KIIT official.
+xviii. KIIT Campus is a “Smoking free and Alcohol free Campus”. Possession
+or consumption of narcotic drugs, tobacco, alcohol and other
+intoxicating substances are strictly prohibited in the campus and
+hostels.
+xix. Motor vehicles use by students in the campus and hostel is banned.
+Day-scholars can use the University transport facility for commuting.
+xx. Harboring or bringing a pet on KIIT premises in violation of University
+policy.
+xxi. Gambling for money or other items of value on KIIT premises; including
+but not limited to playing cards or other games of chances or skill for
+money or other items of value.
+xxii. Plagiarism in any form is strictly prohibited.
+xxiii. Mobile Phones are not permitted to use in the classroom, Library,
+academic area, Examination Halls, etc.
+xxiv. Interfering with the rights or safety of one's roommate(s) and/or other
+students or creating a hostile environment within the residential
+facilities.
+xxv. Door-to-door selling/soliciting/canvassing of any item, service or
+cause is published.
+xxvi. Permitting non-residence hostel students to utilize equipment or
+services intended for the exclusive use of residence hostel students is
+prohibited.
+School of Computer Engineering Page 21
+
+Student Hand Book of Information [2022-23]
+xxvii. Hostel Advisory Board has other regulations that are described in the
+Contract for Room and Board Accommodations or published and
+displayed in the residence hostels.
+xxviii. In addition to the above, Academic Malpractices will normally be
+considered as an act of examination malpractice as defined below:
+xxix. Copying from another student or by any other means during the
+examination.
+xxx. Assisting an examinee in copying during examination by any means.
+xxxi. Possessing/using unauthorized materials or documents.
+xxxii. Obtaining all or part of a question paper by unfair means and /or
+distributing to others.
+xxxiii. Substituting for another student, or permitting any other person
+to substitute for oneself, for appearing in the examination.
+xxxiv. Sexual Harassment/misconduct: Offensive or derogatory comments or
+conducts reflecting gender-bias which create intimidating work, or
+living environments and which represent substantial violations of the
+rights or opportunities of the victim(s). Such conducts include but are
+not limited to:
+a. Conducts that violate the institute's policies prohibiting sexual
+harassment, such as unwelcome sexual advances, requests
+for sexual favour, and other unwelcome verbal or written
+communications of a sexual nature.
+b. The use of phone, email or any other method designed to transmit
+messages or materials of an explicit sexual nature that are unwanted
+by the recipient.
+c. Entering in Academic section or laboratory, faculty room, office of an
+academic Department/Centre, without permission and/or
+tampering/ changing records/documents in any form.
+R.20.3 Modalities of Investigation:
+a. When the Chairman of the respective disciplinary committee receives
+information regarding alleged violation of any rule or regulation of the
+students‟ conduct and disciplinary code, the respective Chairman shall
+investigate the same.
+b. The Chairman of the disciplinary committee may summon the student(s)
+either orally or in writing to appear at a specified date, time, and place in
+connection with an alleged violation.
+School of Computer Engineering Page 22
+
+Student Hand Book of Information [2022-23]
+c. The Chairman may dispose of a violation as being unfounded, may
+impose disciplinary sanctions without a hearing, or may refer the
+violation to a formal disciplinary hearing in the respective committee.
+d. No order other than the order suspending or warning a student shall be
+passed without giving an opportunity of hearing to the student(s).
+R.20.4 Minor Sanctions:
+a. Warning: This is the least sanction envisaged in this code. The student(s)
+engaged in any prohibited behavior will be issued a warning letter.
+b. Tendering Apology: The student(s) engaged in any prohibited behavior
+may be asked to tender an apology for his/her act, undertaking that he
+/she shall not indulge in such or any of the prohibited behavior in
+future.
+c. Suspension of privileges: Prohibits participation of student(s) in certain
+events, activities, placement activity, or class/lab; restricts student(s)
+entry to specific campus.
+d. Hostel Privileges: Change of hostels, expulsion from hostels,
+e. Fine: Compensation for damage; fines up to Rs. 10,000/-
+f. Community Service: Assigned a specific number of hours of service.
+R.20.5 Major Sanctions:
+a. Debarring from Examinations: The student(s) may be debarred from
+writing all/some of the examinations, which forms part of the academic
+programme.
+b. Suspension: Course drop, semester drop, rustication for a specified
+period may be given as punishment, depending on the severity of the
+offenses.
+c. Restitution: Restitution implies reimbursement in terms of money
+and/or services to compensate for personal injury or loss, damage/ dis-
+figuration to property of the University or any property kept in the
+premises of the University in any manner. The student(s) may be asked
+to compensate for the loss that has been caused to any person or
+property of the University or any property kept in the premises of the
+University due to the act of vandalism perpetrated by the student(s). The
+student(s) will also be liable to put in their service to restore any loss or
+damage caused to any property and thereby bringing it to its original
+form if it is possible.
+School of Computer Engineering Page 23
+
+Student Hand Book of Information [2022-23]
+d. Forfeiture: Caution deposit of any student engaged in any prohibited
+behaviour shall be forfeited.
+e. Expulsion: This is the extreme form of disciplinary action and shall be
+resorted to only in cases where stringent action is warranted. Expulsion
+is the permanent dismissal of a student from the University and such a
+student will not be eligible for readmission to any of the courses of this
+University.
+R.20.6 Functionaries under the Code
+i. Hostel Welfare and Disciplinary Committee (HWDC):
+Violation of general rules by a hostel resident will come under the purview of
+Hostel Welfare and Disciplinary Committee (HWDC). The HWDC will deal
+with the matter and give appropriate punishment as envisaged. For matters
+which have implications across hostels they shall be referred to the
+University Welfare and Disciplinary Committee (UWDC).
+ii. School Welfare and Disciplinary Committee (SWDC):
+Disciplinary issues related to general conduct of students in the class
+rooms, examination hall, laboratories and in around campuses shall be
+dealt with by the School Welfare and Disciplinary Committee (SWDC). The
+Director of the Schools shall have the power to impose minor sanctions as
+envisaged in this code. If the violations are of serious nature or indulge
+student(s) are from more than one School, SWDC may refer the matters to
+University Welfare and Disciplinary Committee (UWDC) for further action.
+The matters and the respective disciplinary actions recommended by
+SWDC/HWDC shall be endorsed by Chairman, UWDC.
+Composition of SWDC:
+a. Director of the School – Chairperson
+b. Dean one of the School – Member
+c. FIC students‟ affairs – Member
+d. Program Head – Member
+e. Faculty members (2nos) – Members
+f. A.O of the concerned School – Member Secretary
+g. Tutor Mentors of concerned student – Invitee
+All the above committees shall be appointed by the Director of the School for
+a period of two years. In addition, the Chairperson may invite any other
+persons to be associated with the proceedings of a particular case, if they
+deem fit, on a case to case basis.
+School of Computer Engineering Page 24
+
+Student Hand Book of Information [2022-23]
+iii. University Welfare and Disciplinary Committee (UWDC):
+Violations at the University level include those issues pertaining to the
+Indian Penal Code (within or outside the campus), those that can affect the
+KIIT community at large or those that can affect the property of the
+University itself or involvement of students from multiple schools. For all
+such major acts of indiscipline, which may have serious implications on the
+general body of students, and which may warrant a uniform and more
+formalized nature of investigation, UWDC will investigate the allegations and
+recommend disciplinary sanctions to Pro-Vice Chancellor for approval
+R.20.7 Right to Appeal
+The student(s) aggrieved by the action of any authority of the University
+under or subordinate to the Director (SA) can appeal to the Director (SA) and
+any student aggrieved by the action of the Director (SA) can appeal to the
+Pro-Vice Chancellor. He/she should appeal within two weeks time with
+proper justification of the appeal. The decision of the Pro-Vice Chancellor
+shall be final and binding on the students.
+R.20.8 Assistance from Law Enforcement Agencies
+The Dean/Director shall have the power and duty to call the Police
+immediately with the concurrence of the Director (SA) when there is a threat
+of Law and Order situation in the campus/hostel and also when there is a
+genuine apprehension that any incident of rioting, vandalism or any other
+act prohibited by law is likely to take place. The Dean/Director shall in such
+a case give a detailed report to the Director (SA). The Dean/Director can also
+arrange for video recording of the entire situation and take requisite actions
+through police and other concerned authorities.
+R.21 POWER TO MODIFY
+Notwithstanding all that has been stated above, the Academic Council has
+the right to modify any of the above regulations from time to time.
+SUPPORT SERVICES
+S.1 LIBRARY
+School of Computer Engineering Library opens round the clock in 24x7
+hours mode for the users except three National holidays. Besides the
+Central Library resources, the school library has a robust holding of 16046
+reference and 1, 45, 713 textbooks with 21053 titles, 1, 36,268+ e-books,
+28000+ e-journals, 46 e-databases, 42 PhD theses deposited to Shodhganga
+repository, 521 CDROMs, 11 multilingual newspapers, 17 multi-disciplined
+magazines. The key e-journals, databases and tools that include IEL online,
+Science Direct (Comp. Sc.), EBSCO, Taylor and Francis, Proquest,
+School of Computer Engineering Page 25
+
+Student Hand Book of Information [2022-23]
+Bibliographic databases like Scopus and Web of Science, Patent Database
+(Derwent Innovation), Summon discovery tool, endnote, Turnitin anti
+plagiarism software.
+The Library is completely automated through LIBSYS-10 LMS Software.
+Users can access the Central Library Web Portal, University publications
+and question bank through University repository on campus or through
+remote access provided to each student. It has a photocopy facility. The
+details of the library can also be accessed at: https://library.kiit.ac.in/
+S.2 RECREATIONAL FACILITIES
+Besides academics, KIIT is proud to have a rich sporting culture to maintain
+a holistic development of students. We have created a world class sports
+infrastructure and engaged international coaches in several disciplines to
+nurture and hone students „talents. The campus has excellent facilities for
+several sports as mentioned in Appendix-C. The recreational facility details
+can also be accessed at: https://kiit.ac.in/campuslife/sports/
+S.3 TRAINING AND PLACEMENT:
+KIIT Deemed to be University offers unrivaled training and placement facility
+to students. The Training & Placement Office is located in Kolab Campus.
+Primary activities are:
+Industrial Internship: Arranging Industrial internship for students. It‟s broad
+objective is to orient the students to work in an industry environment with
+real-life problems.
+Pre-Placement Training: Pre-Placement training, both in technical and non
+technical areas, is organized for students aiming for campus placement.
+While technical module helps students to brush up their technical
+knowledge, areas like Group Discussion, Personal Interviews, English,
+Mathematics and Reasoning are touched upon by non technical module.
+Campus Selection: T&P cell completely takes care of the placement related
+activities of the Schools and University. The details about training and
+placement can also be accessed at: https://kiit.ac.in/training-placement/
+S.4 HEALTH CARE:
+Kalinga Institute of Medical Sciences (KIMS), the Medical College & 1750
+Bedded Super-specialty Hospital is found within the KIIT campus next to
+the hostels. It‟s a fully computerized hospital with ERP, Wi-Fi, IP Phone and
+CCTV Surveillance. It has 100 Air-conditioned Cabins, 50 Air-conditioned
+Sharing Cabins along with wards. There are 16 state-of-the-art Operation
+Theatres including 2 modular Operation Theatre, 24x7 Blood Bank, and
+State-of-the-Art Central Laboratory accredited by NABL, 100 ICU Beds and
+24x7 Emergency/Casualty. Ambulance service is also available 24x7. All the
+School of Computer Engineering Page 26
+
+Student Hand Book of Information [2022-23]
+services are available to students and staffs round the clock. The detail of
+health facilities is also available at: https://kims.kiit.ac.in/
+S.5 STUDENT ACTIVITY CENTER:
+KIIT Student Activity Centre (KSAC) aims to bring all students of the
+university under one roof with objective of establishing a common ground
+for extra-curricular activities as well as ensures a holistic environment for
+sharing of talent, culture and innovative ideas. KSAC governs 28 official
+Student Societies of KIIT in a varied range such as music, dance , painting,
+photography, film, designing, theatre, fashion, Quizzing, marketing &
+Finance, IT & Web, Robotics, Aeronautics etc. Students can join their
+society of choice and carry forward their passion, interest & hobbies. KSAC
+provides well equipped facilities for students such as dedicated dance floor,
+Jam rooms, stage with podium and Auditorium. KSAC organizes major
+student events like KIITFEST, the annual Techno-cultural fest; KIIT
+International MUN; Udghosh, the National Open Quiz; Pratijja, Asian
+Parliamentary Debate; TEDxKIITUniversity and so on. In addition, KSAC
+organizes a plethora of online & offline engagement activities, workshops,
+alumni-student interaction programmes and celebrates different festivals &
+days. The student members of KSAC are also involved in many outreach and
+community engagement activities throughout the year.
+Moreover all major festivals are also celebrated at KIIT by KSAC. The details
+about student activity center is also given at: https://ksac.kiit.ac.in/
+S.6 STUDENT COUNSELLING CELL:
+Counselling is a guidance programme intended for students in different
+situations for different services in the areas of career and attaining overall
+competency. KIIT counselling cell guides the students in advancing their
+career and at the same time making them psychologically strong to handle
+the stresses of a successful career. It offers solution focused and student-
+centered approach. Also, the Counselling Cell guides in providing
+International academic exposure through semester exchange programme,
+internship short term courses and cultural exchange programmes.
+The details about student counseling cell is also available at:
+https://kiit.ac.in/student-counselling/
+S.7 COMPLIANCE CELL:
+The School promotes single-window assistance to students through
+compliance cell. Students put forth all types of requests (grievances/
+complaints/ requirements) to the cell. Some requests are directly resolved by
+the cell in consultation with the Director/Dean. Others are forwarded to the
+designated unit/department/post for serving the request. However, in the
+current pandemic situation, your online application needs to adhere to the
+following procedure to serve all your requests quickly:
+School of Computer Engineering Page 27
+
+Student Hand Book of Information [2022-23]
+ Objective of your request must be mentioned clearly.
+ Every application must contain Full Name, Roll No, Branch,
+Semester, and Contact No.
+ The application should be sent to the Email ID as mentioned in
+the Annexure against each nature of the requirement.
+ Requirements, those are not mentioned in the Appendix - H,
+can be forwarded only through your Tutor Mentor to Dean /
+Director.
+The point of contacts for different requirement redressal is given in
+Appendix – G.
+S.8 ICT CELL
+The School ICT cell is managed by ICT Manager with few staff members
+deputed from the University ICT cell. Responsibilities of Manager include:
+ Maintain inventory of supplies, places orders and records of maintenance
+activities for the software, hardware, computer network, server and other
+electronic gadgets.
+ Monitor files and programs that are downloaded on to the computers to
+make sure spyware, malware and other dangerous programs are not
+downloaded.
+ Provide ICT installation and support in the classroom, building, faculty
+chamber, office space and organizing events/ activities.
+ File all reports of software, the hardware of the computer, and related
+equipment required by the Director/Head ICT.
+ Diagnose hardware/software problems and fixes them or contacts the
+appropriate engineer to correct the problem.
+ Conduct regular maintenance on the computers and perform regular
+software backups.
+ Ensure that University equipment/facilities under the School's control
+are properly maintained and serviced as required.
+The detail of central ICT can also be accessed at:
+https://kiit.ac.in/campuslife/ict/
+School of Computer Engineering Page 28
+
+Student Hand Book of Information [2022-23]
+Appendix- A
+School Contact Persons
+Position Persons & Mail ID Contact No
+Director General Dr. Biswajit Sahoo 9437229507
+director.csit@kiit.ac.in
+Dean, Research Dr. Suresh Chandra Satapathy 9000249712
+dean_research.cse@kiit.ac.in
+Dean, Academics Dr. Bhabani Sankar Prasad Mishra 9438037401
+(CS) dean.cs@kiit.ac.in
+Dean, Academics Dr. Arup Abhinna Acharya 9861058079
+(IT) dean.it@kiit.ac.in
+Dean, Academics Dr. Amulya Ratna Swain 9439627127
+(CC & CSM) dean.ccm@kiit.ac.in
+Program Head, Dr. Hrudaya Kumar Tripathy 9437432185
+M.Tech phmtech.cse@kiit.ac.in
+Dy. Controller of Dr. Anuja Kumar Acharya 9438520431
+Examination dycoe.csit@kiit.ac.in
+Asst. CoE-1 Mrs. Bhaswati Sahoo 9439772095
+acoe.cese@kiit.ac.in
+Asst. CoE-2 Mr. Sujoy Datta 8093713885
+acoe.csit@kiit.ac.in
+Asst. CoE-3 Dr. Subhasis Dash 9437800206
+fic.examcell.cse@kiit.ac.in
+Asst. CoE-4 Mr. Lalit Kumar Vashishtha 9668224395
+fic.examcell.cse@kiit.ac.in
+Asso. Dean (T&P) Dr. Tanmaya Swain 9437389858
+tnp.scs@kiit.ac.in
+Sr. Administrative Mr. Partha Sarathi Mohapatra 9830260530
+Officer partha.mohapatra@kiit.ac.in
+Faculty-In-Charges
+Dr. Satarupa Mohanty 9124941515
+Alumni Relation satarupafcs@kiit.ac.in
+Dr. Namita Panda 9437444205
+npandafcs@kiit.ac.in
+Mrs. Meghana G Raj (Talk Series) 9000177935
+meghana.rajfcs@kiit.ac.in
+Dr. Himansu Das 9861335143
+Laboratory himanshufcs@kiit.ac.in
+Governance Mrs. Suchismita Das 8763977944
+suchismita.dasfcs@kiit.ac.in
+Library Enrichment Dr. Manas Ranjan Lenka 9861077824
+manaslenkafcs@kiit.ac.in
+Quality Assurance Dr. Siddharth Swarup Rautray 8763999449
+qacell.cse@kiit.ac.in
+Mrs. Krishna Chakravarty 8658115387
+qacell.cse@kiit.ac.in
+School of Computer Engineering Page 29
+
+Student Hand Book of Information [2022-23]
+Dr. Niranjan Kumar Ray 9861361486
+qacell.cse@kiit.ac.in
+Dr. Mohit Ranjan Panda 9777999330
+qacell.cse@kiit.ac.in
+Ms. Santwana Sagnika 8093945565
+Website & Social webmaster.sce@kiit.ac.in
+Media Management Mr. Kunal Anand 8464800019
+webmaster.sce@kiit.ac.in
+Ms. Pratyusa Mukherjee 9861937376
+webmaster.sce@kiit.ac.in
+Dr. Manjusha Pandey 8763999448
+ficstudentactivity.cse@kiit.ac.in
+Dr. Leena Das 7750827038
+ficstudentactivity.cse@kiit.ac.in
+Student Affairs
+Ms. Roshni Pradhan 9439659354
+ficstudentactivity.cse@kiit.ac.in
+Mr. Sankalp Nayak 9853261679
+ficstudentactivity.cse@kiit.ac.in
+Mr. R. N. Ramakanta Parida 7978036775
+nss.sce@kiit.ac.in
+Student Affairs
+Dr. Minakhi Rout 9861108580
+(NCC & NSS)
+nss.sce@kiit.ac.in
+Dr. Rajat Kumar Behera 9886072882
+rajatkumar.beherafcs@kiit.ac.in
+Mr. Kumar Devadutta 9437072128
+International Student
+kdevduttafcs@kiit.ac.in
+Affairs (Academics)
+Dr. Mainak Bandyopadhyay 8009387402
+mainak.bandyopadhyayfcs@kiit.a
+c.in
+Dr. Ajay Kumar Jena 9437232068
+Time Table ajay.jenafcs@kiit.ac.in
+Governance
+Dr. Abhaya Kumar Sahoo 9861443456
+abhaya.sahoofcs@kiit.ac.in
+Dr. Hrudaya Kumar Tripathy 9437432185
+hktripathyfcs@kiit.ac.in
+Guest Lecture
+Dr. Pradeep Kumar Mallick 8895885152
+Engagement
+pradeep.mallickfcs@kiit.ac.in
+Dr. Rajdeep Chatterjee 9040820056
+Industry & Institute rajdeepfcs@kiit.ac.in
+Collaboration
+Dr. Saurabh Bilgaiyan 9040236696
+saurabh.bilgaiyanfcs@kiit.ac.in
+School of Computer Engineering Page 30
+
+Student Hand Book of Information [2022-23]
+Project Co-ordinator Dr. Jagannath Singh 9861085883
+(UG) jagannath.singhfcs@kiit.ac.in
+Dr. Sushruta Mishra 7751995740
+sushruta.mishrafcs@kiit.ac.in
+Appendix-B
+University Contact Persons
+Academic & Curricular Activities
+Position Name & Mail ID Contact No
+Vice Chancellor Dr. Sasmita Rani Samanta 9437035188
+vicechancellor@kiit.ac.in
+Pro-Vice Chancellor Dr. Saranjeet Singh 9439362572
+provicechancellor@kiit.ac.in
+Registrar Dr. Jynana Ranjan Mohanty 7978819705
+registrar@kiit.ac.in
+Controller of Dr. Santosh Kumar Pani 9861008635
+Examinations coe@kiit.ac.in
+Director Dr. Samaresh Mishra 9437189722
+Student Affairs director.sa@kiit.ac.in
+Director Mr. Prasant K. Mohapatra 9437020238
+Admission pkm.admission@kiit.ac.in
+Director Mr. Sudhir Satapathy 9831049367
+Finance sudhir.satapathy@kiit.ac.in
+Director Dr. Sucheta Priyabadini 9937220209
+Student Counselling sucheta@kiit.ac.in
+Director General Dr. Gaganendu Dash 9437020244
+Sports & PE sports.kiit@gmail.com
+Director Mr. Sudhir Kumar Rath 9937220251
+Hostel srath@kiit.ac.in
+Chief Librarian Dr. Bijayalaxmi Routray 9937401113
+bijaylaxmi@kiit.ac.in
+Chief Proctor Mr. Pradeep K. Patnaik 9437052844
+pattnaik.pradeep232@gmail.com
+Dy. Director Dr. Shyam Sundar Behura 9178358687
+Student Services shyam.behura@kids.ac.in
+Dean, International Dr. Anita Pati 9439258659
+Students Relations dean.isr@kiit.ac.in
+NSS Programme Dr. Kajal Parashar 9438730874
+Coordinator kparasharfch@kiit.ac.in
+NCC Officer Dr. Tribikram Mohanty 9437230562
+tmohantyfce@kiit.ac.in
+Jt. Registrar Mr. Pratap K. Chamupaty 9437064771
+(Administration) pkc@kiit.ac.in
+School of Computer Engineering Page 31
+
+Student Hand Book of Information [2022-23]
+Deputy Director, Mrs. Jayanti Nath
+Girls' Hostel & jayanti.nath@kiit.ac.in 8895585533
+Student Affairs
+General Manager- Mr. Kalpataru Nayak 9861292981
+Systems, ICT kalpataru@kiit.ac.in
+Appendix-C
+Recreational Facilities
+(Sports Complexes Locations)
+Campus 3 Campus 12
+(Exclusively for Girl Students) • 1 Basketball Court (Synthetic)
+• Indoor Hall (Multi-purpose) • 1 Lawn Tennis Court (Synthetic)
+• 3 Badminton Courts • Indoor Hall (Multi-purpose)
+• Multi Gym • 3 Badminton Courts
+• Billiards and Snookers • Multi Gym
+• Table Tennis • Swimming Pool (Outdoor)
+• Swimming Pool (Indoor) • Table Tennis Hall
+• Chess • Billiards and Snookers Hall
+• Carom • Yoga Center
+• Yoga Hall Campus 13
+Campus 5 • KIIT Cricket Stadium
+• Multi Gym (International Standard with Turf
+• Swimming Pool (Indoor) Wickets, Flood Lights with 20000
+• Cricket Ground seating capacity & 7 Practice
+• Football Ground outdoor nets)
+Campus 6 • Hockey Stadium (Astroturf &
+• Swimming Pool (Outdoor) Flood Lights with 5000 seating
+• Multi Gym capacity)
+Campus 7 • Football Stadium/ Rugby
+• Billiards and Snooker Hall Stadium (Grass with 3000 seating
+• Table Tennis Hall capacity)
+• Multi Gym • Baseball Ground
+• Swimming Pool (Outdoor) • Track & Field
+• Yoga Hall • Biju Patnaik Indoor Stadium
+• Basketball Court (Multi Purpose with Handball,
+Campus 8 Volleyball, Basketball, Badminton,
+• 3 Lawn Tennis Courts (Synthetic Kabaddi, Kho Kho, Shooting,
+& Floodlights) Cricket Nets, Weightlifting, Power
+• 4 Volleyball Courts (Synthetic & Lifting, Judo, Fencing & Wrestling
+Floodlights) facilities)
+Campus 11 Campus 15
+• 2 Basketball Court (Synthetic) • 2 Basketball Court (Synthetic)
+• 2 Lawn Tennis Court • Indoor Hall (Multi-purpose)
+• Indoor Hall (Multi-purpose) • Multi Gym
+• 2 Badminton Court • Swimming Pool (Outdoor)
+School of Computer Engineering Page 32
+
+Student Hand Book of Information [2022-23]
+• Multi Gym • Table Tennis Hall
+• Swimming Pool (Outdoor) • Billiards and Snookers Hall
+• Squash Hall • Kabaddi Ground
+• Table Tennis Hall • 2 Boxing Rings (International
+• Billiards and Snookers Hall Standard)
+Appendix-D
+ACADEMIC CALENDAR
+Autumn 1st Semester 2022
+(Course: Computer Programming Laboratory (CS-1093)
+ACTIVITY DATE
+Reporting & Registration To be declared
+Commencement of Classes To be declared
+Distribution of course plan by course To be declared
+faculty
+Pre-Mid semester Session To be declared
+Informing 50% of the continuous To be declared
+evaluation mark to students
+Post Mid Semester Session To be declared
+Conduct of Practical Examination To be declared
+Autumn 3rd Semester 2022
+ACTIVITY DATE
+Reporting & Registration 18/07/2022
+Commencement of Classes 18/07/2022
+Distribution of course plan by 23/07/2022
+course faculty
+Pre-Mid Semester Session 18/07/2022 – 16/09/2022
+Informing 50% of the continuous
+evaluation mark to students by 20/09/2022
+the course teacher
+Mid Semester Examination 19/09/2022 – 23/09/2022
+Post Mid Semester Session 26/09/2022 – 06/12/2022
+Conduct of Practical Examination 21/11/2022 – 06/12/2022
+End Semester Examination 07/12/2022 – 17/12/2022
+School of Computer Engineering Page 33
+
+Student Hand Book of Information [2022-23]
+Autumn 5th Semester 2022
+ACTIVITY DATE
+Reporting & Registration 11/07/2022
+Commencement of Classes 11/07/2022
+Distribution of course plan by 16/07/2021
+course faculty
+Pre-Mid Semester Session 11/07/2022– 16/09/2022
+Informing 50% of the continuous
+evaluation mark to students by 20/09/2022
+the course teacher
+Mid Semester Examination 19/09/2022 – 23/09/2022
+Post Mid Semester Session 26/09/2022 – 29/11/2022
+Conduct of Practical Examination 14/11/2022 – 29/11/2022
+End Semester Examination 30/11/2022 – 10/12/2022
+Autumn 7th Semester 2022
+ACTIVITY DATE
+Reporting & Registration 04/07/2022
+Commencement of Classes 04/07/2022
+Distribution of course plan by 09/07/2022
+course faculty
+Pre-Mid Semester Session 04/07/2022 – 16/09/2022
+Informing 50% of the continuous
+evaluation mark to students by 20/09/2022
+the course teacher
+Mid Semester Examination 19/09/2022 – 23/09/2022
+Post Mid Semester Session 26/09/2022 – 22/11/2022
+Conduct of Practical Examination 07/11/2022 – 22/11/2022
+End Semester Examination 23/11/2022 – 03/12/2022
+Spring 2nd Semester 2022
+(Course: Computer Programming Laboratory (CS-1093)
+ACTIVITY DATE
+Reporting & Registration 16/02/2022
+Commencement of Classes 16/02/2022
+Distribution of course plan by course
+faculty 23/02/2022
+Pre-Mid semester Session 16/02/2022– 16/04/2022
+Informing 50% of the continuous
+evaluation mark to students 16/04/2022
+Post Mid Semester Session 22/04/2022 – 08/06/2022
+Conduct of Practical Examination
+23/05/2022 – 04/06/2022
+School of Computer Engineering Page 34
+
+Student Hand Book of Information [2022-23]
+Spring 4th Semester 2022
+ACTIVITY DATE
+Reporting & Registration 03/01/2022
+Commencement of Classes 03/01/2022
+Distribution of course plan by 10/01/2022
+course faculty
+Pre-Mid Semester Session 03/01/2022 – 04/03/2022
+Informing 50% of the continuous
+evaluation mark to students by 04/03/2022
+the course teacher
+Mid Semester Examination 07/03/2022 – 12/03/2022
+Post Mid Semester Session 14/03/2022 – 13/05/2022
+End Semester Examination 16/05/2022 – 31/05/2022
+Spring 6th Semester 2021-2022
+ACTIVITY DATE
+Reporting & Registration 14/12/2021
+Commencement of Classes 14/12/2021
+Distribution of course plan by 20/12/2021
+course faculty
+Pre-Mid Semester Session 14/12/2021– 11/02/2022
+Informing 50% of the continuous
+evaluation mark to students by 14/02/2022
+the course teacher
+Mid Semester Examination 14/02/2022– 19/02/2022
+Post Mid Semester Session 21/02/2022 – 22/04/2022
+Conduct of Practical Examination 07/04/2022 – 21/04/2022
+End Semester Examination 25/04/2022 – 07/05/2022
+Spring 8th Semester 2021-2022
+ACTIVITY DATE
+Reporting & Registration 14/12/2021
+Commencement of Classes 14/12/2021
+Distribution of course plan by 20/12/2021
+course faculty
+Pre-Mid Semester Session 14/12/2021– 11/02/2022
+Informing 50% of the continuous
+evaluation mark to students by 14/02/2022
+the course teacher
+Mid Semester Examination 14/02/2022– 19/02/2022
+Post Mid Semester Session 21/02/2022 – 22/04/2022
+Conduct of Practical Examination 07/04/2022 – 21/04/2022
+End Semester Examination 25/04/2022 – 07/05/2022
+School of Computer Engineering Page 35
+
+Student Hand Book of Information [2022-23]
+Appendix-E
+Fee structure for Certificates & Reports Issuance
+The students can obtain their certificates/reports on payment of the
+following charges:
+Sl Certificates/ Reports Amount (Rs) Issuing
+No. Authority
+First Dupl.
+copy copy
+1 Semester Grade Report Nil 150 Dean
+2 Final Grade Report Nil 500 Dean
+3 Provisional Certificate Nil Nil Dean
+4 Migration Certificate 200 300 Registrar
+5 Final Degree Certificate Nil 1000 Dean
+6 Transcript Certificate 500 500 Registrar
+7 Transfer/College Leaving
+Nil 200
+Dean
+Certificate
+8 Rank Certificate 500 500 Dean
+9 Attempt Certificate 500 500 Dean
+10 Registration Certificate Nil 150 Dean
+Students need to apply for certificates/reports to the issuing authority
+through Compliance cell (Mail Id: compliance.cse@kiit.ac.in) with their
+proof of identity and address. The University will send the
+certificates/reports by post to the student by charging an additional
+payment of the Rs 300/- (inside India) and $ 60 (outside India) as postal
+fee. However, the University does not take any liability for any misplacement
+or damage of the parcel by the post.
+Transcript certificates are issued by submitting photo copy of FGR/SGR of
+any semester and addresses of the Institutes requiring the Transcripts.
+In case of issue of duplicate certificates/reports, student has to submit an
+application to the issuing authority with the following documents:
+1. Photo copy of the lost certificate, if available.
+2. Copy of the FIR/Affidavit, if lost.
+3. Certificate to be returned, if damaged.
+4. Student Photo to be uploaded (Online)
+5. Money Receipt
+School of Computer Engineering Page 36
+
+Student Hand Book of Information [2022-23]
+Appendix-F
+University Ranking and Achievements
+ KIIT Wins „THE Awards Asia‟ 2020
+ Ranked No 1 among the Private Higher Education Indian
+Universities in the Atal Ranking of Institutions on Innovation
+Achievements (ARIIA), an initiative of (MHRD), Govt. of India.
+ First Indian university to get Internationalization Strategies
+Advisory Service (ISAS) Badge.
+ Institution Of Eminence (IoE) Tag From UGC
+ KIIT holds ranking in the Times Higher Education (THE)
+2019 on four sustainable development parameters. In terms of
+these parameters, KIIT has got 101-200 position with respect to
+Reduced Inequalities; 201+ in Peace, Justice and Strong
+Institutions and 301+ in Quality Education.
+Overall 301+ position globally.
+ Conferred Category „A‟ status by Ministry of Human Resources
+Development, Government of India in 2014
+ „Tier 1‟ Accreditation for Undergraduate Engineering
+programmes by National Board of Accreditation, which is a
+permanent signatory member of Washington Accord
+ Education Excellence Award for Best Private University by
+Brands Academy
+ Best University award by Europe Business Assembly
+ Best University of the year Award by ASSOCHAM
+ Best Regional University Award by The Socrates Committee, UK
+School of Computer Engineering Page 37
+
+Student Hand Book of Information [2022-23]
+Appendix -G
+Point of Contact for Requirement Redressal
+Sl. Nature of Requirement Authorized Department
+No. (Email ID)
+1. Bonafide Certificate for:
+i. Education Loan
+ii. Scholarship
+iii. Course-continuing
+iv. Passport
+v. Application for higher studies
+2. Railway Concession Pass School Compliance Cell
+Issue of Grade Reports/ Provisional (compliance.cse@kiit.ac.in)
+3. Degree Certificate/ Degree
+Certificate/ College Leaving
+Certificate/ Conduct Certificate
+4. Extension for Academic/ Hostel
+Fees Payment
+5. Open Electives or Department
+Electives related Queries
+6. Rank Certificate
+No Backlog Certificate
+7. Head Signature on Application Form
+(GATE, CAT etc.)
+Discrepancy in marks, grades,
+Assistant CoE
+8. answer sheets for B.Tech 2020 &
+(acoe.cese@kiit.ac.in)
+2019 admitted batch students,
+M.Tech. and Ph.D. students
+Discrepancy in marks, grades,
+Assistant CoE
+9. answer sheets for B.Tech 2018 &
+(acoe.csit@kiit.ac.in)
+2017 admitted batch students
+Correction of Name, DOB & Change Admission
+10. of Address (swapna.mohanty@kiit.ac.in)
+Issues related to Scholarship
+Laptop related issues ICT Cell
+(delivery/technical faults) (laptop.service@kiit.ac.in)
+11. (helpdesk@kiit.ac.in)
+Issue related to inclusion in the
+12. school email group id (helpdesk@kiit.ac.in)
+School of Computer Engineering Page 38
+
+Student Hand Book of Information [2022-23]
+Point of Contact for Requirement Redressal (Cont.)
+Sl. Nature of Requirement Authorized Department
+No. (Email ID)
+School Library
+13. Library books & Library access (beda_sahoo@kiit.ac.in)
+(bijaylaxmi@kiit.ac.in)
+14. Fee Discrepancy & SAP
+Accounts Section
+reflection
+(manoj.meher@kiit.ac.in)
+Hostel Matters Hostel
+15. (hostel@kiit.ac.in)
+Bonafied Certificate for
+16. Internship & queries related School T&P Cell
+to Training, Placement and (tnp.scs@kiit.ac.in)
+Internship
+17. Recreational Facility Access (sports.kiit@gmail.com)
+18. Student Counseling (sucheta@kiit.ac.in)
+19. Student Activity KSAC
+(shyam.behura@kids.ac.in)
+20. Unable to download the slcm.kiit@kiit.ac.in
+semester grade sheet
+21. University Guest House kiitguesthouse@kiit.ac.in
+Booking
+School of Computer Engineering Page 39

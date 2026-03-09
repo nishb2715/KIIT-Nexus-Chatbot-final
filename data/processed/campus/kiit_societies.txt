@@ -1,0 +1,168 @@
+
+KIIT STUDENT ACTIVITY CENTRE (KSAC) - TECHNICAL SOCIETIES AND CLUBS
+
+KIIT University has a vibrant ecosystem of technical societies and clubs under the KIIT Student Activity Centre (KSAC) as well as independent student-run organizations. These societies span engineering, technology, research, and programming domains.
+
+=== CORE ENGINEERING & SPECIALIZED TECH SOCIETIES ===
+
+KIIT Robotics Society (KRS):
+One of the most active societies at KIIT, focusing on robotics, embedded systems, AI, and machine learning. It regularly organizes workshops like "LIFT OFF" (drones) and competes in national events. KRS encourages students to dream of a perfect technology to make life easier.
+
+Konnexions (Society for Web Development & IT):
+The official IT and Web Development Society of KIIT, which promotes skills in coding, cloud computing, and emerging technologies through hackathons and workshops. It has a mission to provide and foster professional advancement opportunities among students dedicated to App Development and Web careers.
+
+KIIT Automobile Society (KAS) / ASME Chapter:
+Dedicated to automotive engineering, focusing on vehicle technology, design, and industry exposure. The society always focuses on new discoveries and easier ways to live life, producing fantastic designs and mechanisms.
+
+Apogeio (Aeronautical Society):
+The official Aeronautical Society of KIIT, working on space and aerospace technologies. Focuses on aerospace technology and scientific advancement in aeronautical engineering. It focuses on research, knowledge sharing, and learning with the aim of embracing new technology.
+
+KIIT Society for Civil Engineers (KSCE):
+Bridges the gap between classroom theory and real-world infrastructure challenges through site visits and technical conferences. It helps students get exposed to the real world of engineering to be a Smart Engineer.
+
+KIIT Electrical Society (KES):
+Focuses on electrical engineering innovations, including circuit design, smart power systems, and IoT. The society aims to design and develop state-of-the-art electrical products, with distinctive characteristics, and to promote social and intellectual benefits.
+
+=== PROFESSIONAL & RESEARCH CHAPTERS ===
+
+IEEE KIIT Chapters:
+Includes various specialized student branch chapters such as the Consumer Technology Society, Industry Applications Society, and Computer Society. Focuses on global research standards and electronics innovation. IEEE chapters at KIIT provide exposure to cutting-edge research and networking opportunities.
+
+Google Developer Groups (GDG) KIIT:
+A Google-backed community exploring mobile and web development using Google technologies. Students learn Android development, Cloud technologies, and participate in Google-sponsored events and hackathons.
+
+Microsoft Learn Student Ambassadors (MLSA) KIIT:
+Empowers students with workshops on Microsoft technologies and developer resources. MLSA members get access to Microsoft tools, certifications, and community events.
+
+ELabs:
+Based in the School of Electronics Engineering, ELabs focuses on IoT, hardware, and AI through peer-to-peer learning and boot camps. It is a hub for hands-on electronics and embedded systems projects.
+
+=== EMERGING TECH & PROGRAMMING HUBS ===
+
+AISoC KIIT (AI Society):
+Dedicated to Artificial Intelligence and Machine Learning research and learning. AISoC organizes workshops, paper reading groups, and AI project competitions.
+
+CyberVault:
+The official Cybersecurity and Ethical Hacking society at KIIT, focusing on penetration testing and Capture The Flag (CTF) competitions. CyberVault trains students in network security, ethical hacking, and cyber defense.
+
+IoT Lab KIIT:
+A student-driven research lab specifically for Internet of Things and embedded systems. Students work on real-world IoT projects involving sensors, microcontrollers, and cloud integration.
+
+Programming Chapters (Coding Ninjas & GeeksforGeeks):
+Official student chapters of Coding Ninjas and GeeksforGeeks at KIIT facilitate competitive programming and interview preparation. These chapters organize coding contests, DSA workshops, and placement preparation sessions.
+
+=== CULTURAL, LITERARY & PERFORMING ARTS SOCIETIES ===
+
+SPIC MACAY KIIT Chapter:
+A chapter of the national movement for "Promotion of Indian Classical Music and Culture Amongst Youth." It brings renowned Indian classical musicians and dancers to KIIT campus.
+
+Enactus KISS-KIIT:
+A chapter of Enactus World running social entrepreneurship projects at KIIT. Won the Enactus National Cup in 2024 and represented India at Kazakhstan in the World Cup 2024.
+
+KIIT Wordsmith (Writing Society):
+The official writing and literary society. Organizes "Founder's Cup Debate" and "Pratijja" — national-level oratory competitions.
+
+TEDx KIIT:
+KIIT students got the licence to organise TEDx in 2015 — the first ever TEDx event in any technical university in Odisha.
+
+=== OTHER NOTABLE SOCIETIES ===
+
+Youth Red Cross: Volunteer-driven society focused on health awareness and care.
+NCC (National Cadet Corps): Senior Division NCC (Army) with 50 cadets.
+NSS (National Service Scheme): Two units — one for boys and one for girls with 500 students each.
+KIIT MUN: KIIT International Model United Nations — one of the largest MUNs in Asia with 2500 delegates from 25 nationalities.
+KIITFEST: Annual techno-cultural festival attracting 20,000+ students.
+
+=== KIIT NEXUS TECH DOMAINS (Separate from KSAC Societies) ===
+
+Note: KIIT NEXUS is a student-built application/chatbot project. The tech domains within KIIT NEXUS are:
+- Web Development
+- Android Development
+- Flutter Development
+- Machine Learning
+
+These are the technology domains used within the KIIT NEXUS project team, NOT the university's technical societies.
+=======
+KIIT STUDENT ACTIVITY CENTRE (KSAC) - TECHNICAL SOCIETIES AND CLUBS
+
+KIIT University has a vibrant ecosystem of technical societies and clubs under the KIIT Student Activity Centre (KSAC) as well as independent student-run organizations. These societies span engineering, technology, research, and programming domains.
+
+=== CORE ENGINEERING & SPECIALIZED TECH SOCIETIES ===
+
+KIIT Robotics Society (KRS):
+One of the most active societies at KIIT, focusing on robotics, embedded systems, AI, and machine learning. It regularly organizes workshops like "LIFT OFF" (drones) and competes in national events. KRS encourages students to dream of a perfect technology to make life easier.
+
+Konnexions (Society for Web Development & IT):
+The official IT and Web Development Society of KIIT, which promotes skills in coding, cloud computing, and emerging technologies through hackathons and workshops. It has a mission to provide and foster professional advancement opportunities among students dedicated to App Development and Web careers.
+
+KIIT Automobile Society (KAS) / ASME Chapter:
+Dedicated to automotive engineering, focusing on vehicle technology, design, and industry exposure. The society always focuses on new discoveries and easier ways to live life, producing fantastic designs and mechanisms.
+
+Apogeio (Aeronautical Society):
+The official Aeronautical Society of KIIT, working on space and aerospace technologies. Focuses on aerospace technology and scientific advancement in aeronautical engineering. It focuses on research, knowledge sharing, and learning with the aim of embracing new technology.
+
+KIIT Society for Civil Engineers (KSCE):
+Bridges the gap between classroom theory and real-world infrastructure challenges through site visits and technical conferences. It helps students get exposed to the real world of engineering to be a Smart Engineer.
+
+KIIT Electrical Society (KES):
+Focuses on electrical engineering innovations, including circuit design, smart power systems, and IoT. The society aims to design and develop state-of-the-art electrical products, with distinctive characteristics, and to promote social and intellectual benefits.
+
+=== PROFESSIONAL & RESEARCH CHAPTERS ===
+
+IEEE KIIT Chapters:
+Includes various specialized student branch chapters such as the Consumer Technology Society, Industry Applications Society, and Computer Society. Focuses on global research standards and electronics innovation. IEEE chapters at KIIT provide exposure to cutting-edge research and networking opportunities.
+
+Google Developer Groups (GDG) KIIT:
+A Google-backed community exploring mobile and web development using Google technologies. Students learn Android development, Cloud technologies, and participate in Google-sponsored events and hackathons.
+
+Microsoft Learn Student Ambassadors (MLSA) KIIT:
+Empowers students with workshops on Microsoft technologies and developer resources. MLSA members get access to Microsoft tools, certifications, and community events.
+
+ELabs:
+Based in the School of Electronics Engineering, ELabs focuses on IoT, hardware, and AI through peer-to-peer learning and boot camps. It is a hub for hands-on electronics and embedded systems projects.
+
+=== EMERGING TECH & PROGRAMMING HUBS ===
+
+AISoC KIIT (AI Society):
+Dedicated to Artificial Intelligence and Machine Learning research and learning. AISoC organizes workshops, paper reading groups, and AI project competitions.
+
+CyberVault:
+The official Cybersecurity and Ethical Hacking society at KIIT, focusing on penetration testing and Capture The Flag (CTF) competitions. CyberVault trains students in network security, ethical hacking, and cyber defense.
+
+IoT Lab KIIT:
+A student-driven research lab specifically for Internet of Things and embedded systems. Students work on real-world IoT projects involving sensors, microcontrollers, and cloud integration.
+
+Programming Chapters (Coding Ninjas & GeeksforGeeks):
+Official student chapters of Coding Ninjas and GeeksforGeeks at KIIT facilitate competitive programming and interview preparation. These chapters organize coding contests, DSA workshops, and placement preparation sessions.
+
+=== CULTURAL, LITERARY & PERFORMING ARTS SOCIETIES ===
+
+SPIC MACAY KIIT Chapter:
+A chapter of the national movement for "Promotion of Indian Classical Music and Culture Amongst Youth." It brings renowned Indian classical musicians and dancers to KIIT campus.
+
+Enactus KISS-KIIT:
+A chapter of Enactus World running social entrepreneurship projects at KIIT. Won the Enactus National Cup in 2024 and represented India at Kazakhstan in the World Cup 2024.
+
+KIIT Wordsmith (Writing Society):
+The official writing and literary society. Organizes "Founder's Cup Debate" and "Pratijja" — national-level oratory competitions.
+
+TEDx KIIT:
+KIIT students got the licence to organise TEDx in 2015 — the first ever TEDx event in any technical university in Odisha.
+
+=== OTHER NOTABLE SOCIETIES ===
+
+Youth Red Cross: Volunteer-driven society focused on health awareness and care.
+NCC (National Cadet Corps): Senior Division NCC (Army) with 50 cadets.
+NSS (National Service Scheme): Two units — one for boys and one for girls with 500 students each.
+KIIT MUN: KIIT International Model United Nations — one of the largest MUNs in Asia with 2500 delegates from 25 nationalities.
+KIITFEST: Annual techno-cultural festival attracting 20,000+ students.
+
+=== KIIT NEXUS TECH DOMAINS (Separate from KSAC Societies) ===
+
+Note: KIIT NEXUS is a student-built application/chatbot project. The tech domains within KIIT NEXUS are:
+- Web Development
+- Android Development
+- Flutter Development
+- Machine Learning
+
+These are the technology domains used within the KIIT NEXUS project team, NOT the university's technical societies.

@@ -1,0 +1,96 @@
+KIIT NEXUS — Community Knowledge Base
+======================================
+
+Q: What is KIIT NEXUS?
+A: KIIT NEXUS is a project-driven technical society at KIIT Deemed to be University. It bridges the gap between academic learning and industry-level product development. Unlike typical event-management societies, KIIT NEXUS focuses on a long-term, structured roadmap where every member builds real-world, deployable projects and is fully prepared for placements by their third year.
+
+Q: What is the vision of KIIT NEXUS?
+A: To build a highly structured, project-driven technical community that ensures every member develops real-world, industry-relevant projects by their 3rd year, cultivating strong technical confidence and ensuring a smooth placement preparation process.
+
+Q: What is the mission of KIIT NEXUS?
+A: The mission of KIIT NEXUS is to:
+- Cultivate a project-oriented mindset — shift focus from theory to building real things.
+- Provide multi-domain exposure across Web Dev, Android, Flutter, ML, and more.
+- Develop real-world, deployable projects rather than isolated code snippets.
+- Conduct structured DSA, aptitude, and core CS placement preparation.
+- Foster consistent problem-solving through gamified streak tracking and leaderboards.
+- Organize free technical summer camps and online bootcamps between semesters.
+- Use the live platform kiitnexus.in for internal assessments and progress tracking.
+
+Q: Who founded KIIT NEXUS?
+A: KIIT NEXUS was founded by Abhishek Dhal (2nd Year B.Tech) as Founder, and Aditya Vikram Singh (2nd Year B.Tech) as Co-Founder.
+
+Q: Who are the technical heads of KIIT NEXUS?
+A: The Technical Heads of KIIT NEXUS are:
+1. Nishtha Mishra (3rd Year B.Tech)
+2. Ishika Jaiswal (3rd Year B.Tech)
+3. Shivam (3rd Year B.Tech)
+
+Q: Who are the domain leads in KIIT NEXUS?
+A: Technical Domain Leads:
+- Web Development Lead: Chandan Kumar
+- Android Lead: Anurag Mukherjee
+- Flutter Lead: Ananya Raj
+- Machine Learning Lead: Shridipa Dhar
+
+Non-Technical Domain Leads:
+- Graphic Designing Lead: Owais
+- Broadcasting Lead: Sayan Barman
+- Marketing Lead: Ipsit Das
+- Operations Lead: Aryan Kumar
+
+Q: Who are the core team members of KIIT NEXUS?
+A: Core Team Members:
+- Machine Learning: Abhigyan Singh, Subham Dutta, Shrimi
+- Web Development: Anushree Saxena, Anushka Sinha
+- Broadcasting: Sipra Mishra
+
+Q: What is the structure of KIIT NEXUS?
+A: KIIT NEXUS operates under a strict hierarchical structure:
+- Faculty-in-Charge (FIC): Provides academic supervision and approves initiatives.
+- Core Committee: Handles strategy, semester roadmap, project allocation, and internal reviews.
+- Domain Leads: Design project roadmaps, conduct domain training, and evaluate progress.
+- Senior Mentors: Guide junior members weekly and provide code/architecture reviews.
+
+Q: What will members achieve by joining KIIT NEXUS?
+A: By the end of their 2nd year, every active KIIT NEXUS member will have:
+- At least 2 major, deployable projects hosted live.
+- 1 research-based or highly innovative project.
+- A robust, industry-ready GitHub portfolio.
+- Resume-ready impact statements showcasing practical problem-solving.
+
+Q: What is KIIT Quest?
+A: KIIT Quest is an application built by the KIIT NEXUS founding team. It is live on the Google Play Store and is actively used by KIIT students for exam preparation, including Previous Year Questions (PYQs) and study material. Future expansions will integrate Placement Analytics.
+
+Q: Where can I find KIIT Quest?
+A: KIIT Quest is available on the Google Play Store. Search for "KIIT Quest" on the Play Store to download it.
+
+Q: What is kiitnexus.in?
+A: kiitnexus.in is the official live platform of KIIT NEXUS. It is used for internal assessments, progress tracking, competitions, and community engagement for KIIT NEXUS members.
+
+Q: What are the upcoming features and deliverables of KIIT NEXUS?
+A: Upcoming KIIT NEXUS deliverables include:
+1. DSA Streak & Leaderboard Portal: Track daily problem-solving streaks on LeetCode and Codeforces with weekly leaderboards.
+2. KIIT NEXUS TESTFORGE: An Aptitude and Reasoning Quiz App with internal leaderboards.
+3. Core CS Modules: Structured practice sessions on OS, DBMS, Computer Networks, and OOP.
+4. Project Evaluation Dashboard: A system to track individual member progress.
+5. Career Development Series: Resume-building workshops and coding contests.
+
+Q: How is KIIT NEXUS different from other societies at KIIT?
+A: Unlike standard communities that focus on short-term events, KIIT NEXUS offers:
+- A long-term, structured roadmap spanning multiple semesters.
+- A project-first approach resulting in a resume-ready GitHub portfolio.
+- Multi-domain integration mirroring real industry environments.
+- Early project-oriented preparation starting from 1st year.
+- An app-based internal assessment system with measurable progress tracking.
+
+Q: How can I join KIIT NEXUS?
+A: To join KIIT NEXUS, visit kiitnexus.in or reach out through KIIT NEXUS social media handles for recruitment announcements. KIIT NEXUS recruits members from all years of B.Tech.
+
+Q: What domains can I work in at KIIT NEXUS?
+A: KIIT NEXUS has the following technical and non-technical domains:
+Technical: Web Development, Android Development, Flutter Development, Machine Learning.
+Non-Technical: Graphic Designing, Broadcasting, Marketing, Operations.
+
+Q: Does KIIT NEXUS prepare students for placements?
+A: Yes. KIIT NEXUS integrates Data Structures and Algorithms (DSA), aptitude, reasoning, and core CS subject modules (OS, DBMS, CN, OOP) directly into its community roadmap to ensure every member is placement-ready by their 3rd year.
