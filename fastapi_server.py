@@ -1,3 +1,4 @@
+from ast import main
 import os
 import re
 import random
@@ -11,6 +12,15 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
 from rag_chain import build_chain, is_greeting, is_goodbye, get_random_greeting, IRRELEVANT_RESPONSE
+from fastapi.middleware.cors import CORSMiddleware
+
+main.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Later, replace * with your actual website domain
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 load_dotenv()
 
