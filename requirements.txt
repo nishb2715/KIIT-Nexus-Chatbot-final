@@ -1,4 +1,4 @@
-torch==2.1.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.1.0 --index-url https://download.pytorch.org/whl/cpu
 langchain==0.2.14
 langchain-community==0.2.12
 langchain-huggingface==0.0.3
